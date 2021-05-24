@@ -42,7 +42,7 @@ A curated list of awesome things related to Babylon.js
 
 *Noteworthy examples of community-contributed content on the Babylon.js playground.*
 
-* 360 portal - <https://playground.babylonjs.com/#58I88I#186>
+* 360 portal - https://playground.babylonjs.com/#58I88I#186>
 * 3D UI - <https://playground.babylonjs.com/#947JF6#0>
 * Ammo.js Heightmap - <https://www.babylonjs-playground.com/#8T3YBR#2>
 * Basic Swimming Fish - <https://www.babylonjs-playground.com/#9CMU0F>
@@ -121,6 +121,7 @@ A curated list of awesome things related to Babylon.js
 * [Heightmap](https://www.babylonjs.com/demos/heightmap/) - Generate terrain using a heightmap. (https://github.com/BabylonJS/CDN/tree/master/Demos/Heightmap)
 * [HillValley](https://www.babylonjs.com/demos/hillvalley/) - Explore a town isolated from the outside world, like in *The Twilight Zone.* (https://github.com/BabylonJS/CDN/tree/master/Demos/HillValley)
 * [HillValleyVR](https://www.babylonjs.com/demos/hillvalleyvr/) - HillValley but creepier in VR. (https://github.com/BabylonJS/CDN/tree/master/Demos/HillValleyVR)
+* [Ink](https://www.babylonjs.com/demos/ink/) - Quick Demo of using the Babylon.js to simulate inking. (https://github.com/sebavan/BabylonjsInkSample)
 * [InstancedBones](https://www.babylonjs.com/demos/instancedbones/) - A group of soldiers marching in sync. (https://github.com/BabylonJS/CDN/tree/master/Demos/InstancedBones)
 * [Instances2](https://www.babylonjs.com/demos/instances2/) - A complex, moving space engine. (https://github.com/BabylonJS/CDN/tree/master/Demos/Instances2)
 * [LookAt](https://www.babylonjs.com/demos/lookat/) - Stare at a colored ball moving around in a box of shapes. (https://github.com/BabylonJS/CDN/tree/master/Demos/LookAt)
@@ -145,6 +146,7 @@ A curated list of awesome things related to Babylon.js
 * [Train](https://www.babylonjs.com/demos/train/) - An incredibly realistic train. (https://github.com/BabylonJS/CDN/tree/master/Demos/Train)
 * [Tunnel](https://www.babylonjs.com/demos/tunnel/) - Travel inside an endless rust-filled tunnel. (https://github.com/BabylonJS/CDN/tree/master/Demos/Tunnel)
 * [V8](https://www.babylonjs.com/demos/v8/) - A complex, moving replica of a V8 engine. (https://github.com/BabylonJS/CDN/tree/master/Demos/V8)
+* [Video Processing Sample](https://www.babylonjs.com/demos/videoprocessing/) - Quick Demo for setting up a Babylon.js real time video processing using a webcam. (https://github.com/sebavan/BabylonjsVideoProcessingSample)
 * [WCafe](https://www.babylonjs.com/demos/wcafe/) - Windows Cafe is a great place to unwind and have a relaxing look around. (https://github.com/BabylonJS/CDN/tree/master/Demos/WCafe)
 * [Yeti](https://www.babylonjs.com/demos/yeti/) - A non-threatening Yeti, complete with snow. (https://github.com/BabylonJS/CDN/tree/master/Demos/Yeti)
 
@@ -161,7 +163,44 @@ A curated list of awesome things related to Babylon.js
 
 *Open source games built with Babylon.js*
 
-* [`VoxelSrv`](https://github.com/VoxelSrv/voxelsrv) - Voxel browser game inspired by Minecraft. (<http://voxelsrv-master.pb4.eu/>)
+* [Alien Cargo](https://github.com/vudugun/AlienCargo) - A WebGL 3D game inspired by the classic puzzle game Sokoban. (<https://vudugun.github.io/AlienCargo/>)
+* [Cube Endless Runner](https://github.com/TiagoSilvaPereira/endless-runner-3d) - Cube Endless Runner is a 3D game built with BabylonJS engine on top of WebGL and HTML5 technologies. (<https://cube-endless-runner.herokuapp.com/>)
+* [Defend](https://github.com/xtreemze/defend) - Procedural Cross-Platform 3D Tower Defense Web Game with Physics and AI and Procedural Sound. (<https://xtreemze.github.io/defend/>)
+* [NeoTrap](https://github.com/ionic-proton/NeoTrap) - Music-based game built with Babylon.js (<https://omarxo.itch.io/neotrap>)
+* [Roll A Ball](https://github.com/impomales/roll-a-ball) - 3D Game to illustrate getting started with the BabylonJS game engine. (<https://roll-a-ball-babylon.herokuapp.com/>)
+* [Theasis](https://github.com/ThanosRestas/Theasis) - FPS game using the BabylonJS framework. (<https://thanosrestas.github.io/Theasis/dist/index.html>)
+* [VoxelSrv](https://github.com/VoxelSrv/voxelsrv) - Voxel browser game inspired by Minecraft. (<http://voxelsrv-master.pb4.eu/>)
+
+## Projects
+
+*Open source projects using Babylon.js*
+
+* [3D Tetris](https://github.com/annamjo/3DTetrisBabylon) - 3D Tetris created with Babylon.js
+* [BABYDOOM](https://github.com/Arc0re/arc0re.github.io) - Doom clone using the JavaScript Babylon.js engine. (<https://arc0re.github.io/>)
+* [babylon-demo](https://github.com/SvenFrankson/babylon-demo) - Babylon.js demo for academic purposes. (<http://svenfrankson.github.io/BabylonDemoWeb/index.html>)
+* [BabylonFpsDemo](https://github.com/renjianfeng/BabylonFpsDemo) - A first person shooter with BabylonJS.
+* [BabylonJS-CharacterController](https://github.com/ssatguru/BabylonJS-CharacterController) - A CharacterController for Babylon.js (<https://ssatguru.github.io/BabylonJS-CharacterController-Samples/demo/>)
+* [BabylonJS-Doom-Clone](https://github.com/CelesteComet/BabylonJS-Doom-Clone) - Doom style game crafted with love using Babylon.js
+* [BabylonJSFirstSteps](https://github.com/topheman/BabylonJSFirstSteps) - You will find here my first steps on Babylon.js (<http://labs.topheman.com/babylonjs/cone-example.html>)
+* [babylonjs-typescript-webpack-starter](https://github.com/pandadelphin/babylonjs-typescript-webpack-starter) - A starter template for those who want to use the famous JavaScript 3D game engine Babylon.js with TypeScript and Webpack.
+* [babylonjs-webxr-template](https://github.com/yuiseki/babylonjs-webxr-template) - Babylon.js + TypeScript WebXR template project. (<https://yuiseki.github.io/babylonjs-webxr-template/>)
+* [babylon-mtoon-material](https://github.com/virtual-cast/babylon-mtoon-material) - Unity MToon Shader WebGL porting to Babylon.js. (<https://virtual-cast.github.io/babylon-mtoon-material/>)
+* [babylon_ragdoll_robi](https://github.com/Takebon/babylon_ragdoll_robi) - Babylon.js ragdoll robot. (<https://ragdoll-robi.web.app/>)
+* [babylon-steering](https://github.com/LorenzoCorbella74/babylon-steering) - Steering behaviors library for Babylon.js
+* [Bomberman 3D](https://github.com/adisoftbn/Bomberman3D) - Experimental game dev with Babylon.js and Angular 5. (<https://adisoftbn.github.io/Bomberman3D/>)
+* [Christmas runner](https://github.com/Temechon/Christmas-runner) - A Babylon.js game made for Christmas. (<http://pixelcodr.com/games/christmasRunner/>)
+* [ecsy-babylon](https://github.com/kaliber5/ecsy-babylon) - Experimental implementation of ECSY for Babylon.js
+* [fps-babylon-js](https://github.com/Raigyo/fps-babylon-js) - Online Multiplayer First Person Shooter with Babylon.js & SocketIO. (<https://babylon-fps-online.herokuapp.com/>)
+* [HTML5 FPS](https://github.com/csarkosh/html5-fps) - Demo of an HTML5 first-person rig built on Babylon.js and React. (<https://fps.csarko.sh/>)
+* [Kicker](https://github.com/Temechon/kicker) - A soccer ball game made for Babylon.js February Challenge.
+* [KZ Climbing](https://github.com/BabylonJSGames/BabylonJS-Platformer-Game-Prototype) - A 3D platformer browser game prototype made with the Babylon.js framework written in TypeScript. (<https://kzclimbing.netlify.app/client/public/>)
+* [Molvwr](https://github.com/gleborgne/molvwr) - WebGL molecule viewer made with Babylon.js (<https://gleborgne.github.io/molvwr/>)
+* [Multiplayer Babylon JS "Game" with Client & Server-Side Physics Engine](https://github.com/j-o-d-o/multiplayer-babylon-js-game) - Multiplayer Babylon.js game with server and client-side physics engine synchronization. (<http://185.82.21.82:8700/>)
+* [Multiplayer FPS-Game](https://github.com/j-o-d-o/FPS-Game) - A Multiplayer FPS built with Babylon.js (<http://185.82.21.82/FPS-Game/public/>)
+* [react-babylonjs](https://github.com/brianzinn/react-babylonjs) - React for Babylon.js (<https://brianzinn.github.io/react-babylonjs/>)
+* [react-babylon-spring](https://github.com/hookex/react-babylon-spring) - Build spring-physics based 3D animation with the power of react-babylonjs and react-spring. (<https://hooke.life/react-babylon-spring/>)
+* [TanksBattle_WebGL_Using_Babylonjs](https://github.com/khaledose/TanksBattle_WebGL_Using_Babylonjs) - 3D Tanks Battle WebGL game using Babylon.js game engine. (<https://www.youtube.com/watch?v=HJrAUqTd1oU>)
+* [Vue-BabylonJS](https://github.com/Beg-in/vue-babylonjs) - A ready-to-go 3D environment for Vue.js using Babylon.js (<https://vue-babylonjs.com/>)
 
 ## Contributing
 
