@@ -42,7 +42,7 @@ A curated list of awesome things related to Babylon.js
 
 *Noteworthy examples of community-contributed content on the Babylon.js playground.*
 
-* 360 portal - https://playground.babylonjs.com/#58I88I#186>
+* 360 portal - <https://playground.babylonjs.com/#58I88I#186>
 * 3D UI - <https://playground.babylonjs.com/#947JF6#0>
 * Ammo.js Heightmap - <https://www.babylonjs-playground.com/#8T3YBR#2>
 * Basic Swimming Fish - <https://www.babylonjs-playground.com/#9CMU0F>
