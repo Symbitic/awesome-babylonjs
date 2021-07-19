@@ -176,7 +176,7 @@ A curated list of awesome things related to Babylon.js
 * [Alien Cargo](https://github.com/vudugun/AlienCargo) - A WebGL 3D game inspired by the classic puzzle game Sokoban. (<https://vudugun.github.io/AlienCargo/>)
 * [Cube Endless Runner](https://github.com/TiagoSilvaPereira/endless-runner-3d) - Cube Endless Runner is a 3D game built with BabylonJS engine on top of WebGL and HTML5 technologies. (<https://cube-endless-runner.herokuapp.com/>)
 * [Defend](https://github.com/xtreemze/defend) - Procedural Cross-Platform 3D Tower Defense Web Game with Physics and AI and Procedural Sound. (<https://xtreemze.github.io/defend/>)
-* [Attack of the Killer Bunnies](https://ericbroberic.itch.io/attack-of-the-killer-bunnies) - Where bunnies go to die. (<https://github.com/farmersanonymous/killer-bunnies>)
+* [Attack of the Killer Bunnies](https://github.com/farmersanonymous/killer-bunnies) - Where bunnies go to die. (<https://ericbroberic.itch.io/attack-of-the-killer-bunnies>)
 * [Light Speed Ready!](https://github.com/Xanmia/Light-Speed-Ready) - A spaceship game of gathering resources and leveling your ship. (<http://www.kraem.com/Light-Speed-Ready/game.html>)
 * [NeoTrap](https://github.com/ionic-proton/NeoTrap) - Music-based game built with Babylon.js (<https://omarxo.itch.io/neotrap>)
 * [Roll A Ball](https://github.com/impomales/roll-a-ball) - 3D Game to illustrate getting started with the BabylonJS game engine. (<https://roll-a-ball-babylon.herokuapp.com/>)
