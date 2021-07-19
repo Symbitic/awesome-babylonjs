@@ -212,6 +212,7 @@ A curated list of awesome things related to Babylon.js
 * [Multiplayer Babylon JS "Game" with Client & Server-Side Physics Engine](https://github.com/j-o-d-o/multiplayer-babylon-js-game) - Multiplayer Babylon.js game with server and client-side physics engine synchronization. (<http://185.82.21.82:8700/>)
 * [Multiplayer FPS-Game](https://github.com/j-o-d-o/FPS-Game) - A Multiplayer FPS built with Babylon.js (<http://185.82.21.82/FPS-Game/public/>)
 * [nengi + Babylon 3D shooter template](https://github.com/timetocode/nengi-babylon-3d-shooter) - A template game for multiplayer 3D shooters made in Babylon.js + nengi.js
+* [Playlist Browser XR](https://github.com/Symbitic/PlaylistBrowserXR) - Browse Spotify playlists in Virtual Reality. (<https://www.playlistbrowserxr.xyz/>)
 * [react-babylonjs](https://github.com/brianzinn/react-babylonjs) - React for Babylon.js (<https://brianzinn.github.io/react-babylonjs/>)
 * [react-babylon-spring](https://github.com/hookex/react-babylon-spring) - Build spring-physics based 3D animation with the power of react-babylonjs and react-spring. (<https://hooke.life/react-babylon-spring/>)
 * [TanksBattle_WebGL_Using_Babylonjs](https://github.com/khaledose/TanksBattle_WebGL_Using_Babylonjs) - 3D Tanks Battle WebGL game using Babylon.js game engine. (<https://www.youtube.com/watch?v=HJrAUqTd1oU>)
