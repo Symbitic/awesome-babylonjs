@@ -227,7 +227,7 @@ A curated list of awesome things related to Babylon.js
 ## Contributing
 
 Your contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
-Thanks to all [contributors](https://github.com/avelino/awesome-go/graphs/contributors); you rock!
+Thanks to all [contributors](https://github.com/Symbitic/awesome-babylonjs/graphs/contributors); you rock!
 
 *If you see something here that is no longer maintained or is not a good fit, feel free to submit a pull request. Thank you!*
 
