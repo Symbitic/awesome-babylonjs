@@ -50,36 +50,49 @@ A curated list of awesome things related to Babylon.js
 * Basic Swimming Fish - <https://www.babylonjs-playground.com/#9CMU0F>
 * Basketball - <https://playground.babylonjs.com/#AL6VAN#1>
 * Bowling - <https://playground.babylonjs.com/#6QYHV7#29>
+* Buttons always face user - <https://playground.babylonjs.com/#CUH660#27>
 * Camera positioning on event - <https://www.babylonjs-playground.com/#0PHDVB#0>
 * Car following path - <https://www.babylonjs-playground.com/#1YD970#14>
 * Change color on collide - <https://www.babylonjs-playground.com/#502Z8L#0>
 * Chessboard Demo - <https://playground.babylonjs.com/#AH85PF#53>
+* Circle menu - <https://playground.babylonjs.com/#092XX3#13>
 * Colliding and deforming cubes - <https://www.babylonjs-playground.com/#RGNDK2#2>
+* Custom button mesh - <https://playground.babylonjs.com/#D7LQDZ#1>
+* Exploding Object with Solid Particles - <https://playground.babylonjs.com/#CWAQ1W#12>
 * Explosions + City burning - <https://playground.babylonjs.com/#4HUQQ#1479>
+* Fenerator 3D with explosion - <https://playground.babylonjs.com/#RDJ26Q#1288>
 * Flight Simulator Experiment - <https://www.babylonjs-playground.com/#UL7W2M>
 * Fruit Ninja VR Game - <https://playground.babylonjs.com/#22KIIK#22>
 * Furball Shader - <https://playground.babylonjs.com/#LVJG7H>
 * Glowing marbles falling - <https://www.babylonjs-playground.com/#45FPFC#13>
 * Glow World - <https://playground.babylonjs.com/#6MQB2X#158>
-* Great White Shark - <https://www.babylonjs-playground.com/#ISZ7Y2>
 * God of War NME Weapons FX Demo - <https://playground.babylonjs.com/#7XU4D8#1>
+* Great White Shark - <https://www.babylonjs-playground.com/#ISZ7Y2>
 * Gun firing - <https://playground.babylonjs.com/#E8C51D#35>
+* Happy holidays custom font - <https://playground.babylonjs.com/#BP7QYG#13>
+* HERO X - <https://playground.babylonjs.com/#A8X91Q#10>
 * Hit the cube - <https://playground.babylonjs.com/#0JC454#16>
 * Holographic keyboard - <https://playground.babylonjs.com/#LU3FLF#6>
+* Hopping game - <https://playground.babylonjs.com/#0IIB3N#44>
 * Joint Impulse Example - <https://www.babylonjs-playground.com/#UFVU18#18>
 * Laser Saber - <https://playground.babylonjs.com/#ZS41RU#0>
 * Lego Buggy Mesh - <https://www.babylonjs-playground.com/#K7TJIG>
 * Light Paddle - <https://playground.babylonjs.com/#6C8005#1>
+* Mallot and Nail VR - <https://playground.babylonjs.com/#IT1QZU#13>
 * Marble Tower - <https://playground.babylonjs.com/#3I55DK#0>
+* Open url by clicking object - <https://playground.babylonjs.com/#11XV5X#13>
 * PGDemo - <https://playground.babylonjs.com/#U8MEB0#114>
 * physicsImposter parenting - <https://playground.babylonjs.com/#ZENDZ2#0>
 * portal + gravity mechanics - <https://playground.babylonjs.com/#ZU8CV4#12>
 * Progressive loading of glTF with LOD - <https://playground.babylonjs.com/#ARN6TJ#5>
 * Pulsars / Imps - <https://playground.babylonjs.com/#1ND6TH#265>
+* Rollercoaster - <https://playground.babylonjs.com/#1HH4OJ#29>
 * Simple XmlLoader GUI - <https://www.babylonjs-playground.com/#S0IW99#23>
+* Slice mesh - <https://playground.babylonjs.com/#B2DP5I#7>
 * Soft body physics - wrecking ball + blocks - <https://playground.babylonjs.com/#8WC6ZN#121>
 * Space Invader - <https://playground.babylonjs.com/#JXJBPS#5>
 * Space Ship Battle - <https://playground.babylonjs.com/#G03CV5#0>
+* Spheres change color only when looked at - <https://playground.babylonjs.com/#0MGV2I#0>
 * StakeShooter - <https://playground.babylonjs.com/#Z88Q4W#19>
 * Tank playground with sound - <https://www.babylonjs-playground.com/#52M011#1>
 * Tap to Bounce - <https://www.babylonjs-playground.com/#88MM6V#0>
@@ -88,6 +101,7 @@ A curated list of awesome things related to Babylon.js
 * The Pirate Fort - <https://www.babylonjs-playground.com/#C21DGD#3>
 * Track with Carriage Following It (First Person) - <https://playground.babylonjs.com/#SQFG0Q#6>
 * Track with Carriage Following It (Third Person) - <https://playground.babylonjs.com/#SQFG0Q#5>
+* Trailing mesh - <https://playground.babylonjs.com/#Z07JE1#2>
 * Under Water Demo - <https://playground.babylonjs.com/#LPTLZM>
 * Velocity test on soccer balls - <https://www.babylonjs-playground.com/#5W4GH1#10>
 * Virtual Joystick GUI - <https://playground.babylonjs.com/#C6V6UY#49>
@@ -196,6 +210,7 @@ A curated list of awesome things related to Babylon.js
 * [BabylonJS-Doom-Clone](https://github.com/CelesteComet/BabylonJS-Doom-Clone) - Doom style game crafted with love using Babylon.js
 * [BabylonJSFirstSteps](https://github.com/topheman/BabylonJSFirstSteps) - You will find here my first steps on Babylon.js (<http://labs.topheman.com/babylonjs/cone-example.html>)
 * [babylonjs-oculus-quest-controller-input](https://github.com/flushpot1125/babylonjs-oculus-quest-controller-input) - How to take controller input.
+* [BabylonJS Typescript Logic Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) - A collection of small projects that show possible ways of handling game logic with BabylonJS
 * [babylonjs-typescript-webpack-starter](https://github.com/pandadelphin/babylonjs-typescript-webpack-starter) - A starter template for those who want to use the famous JavaScript 3D game engine Babylon.js with TypeScript and Webpack.
 * [babylonjs-webxr-template](https://github.com/yuiseki/babylonjs-webxr-template) - Babylon.js + TypeScript WebXR template project. (<https://yuiseki.github.io/babylonjs-webxr-template/>)
 * [babylon-mtoon-material](https://github.com/virtual-cast/babylon-mtoon-material) - Unity MToon Shader WebGL porting to Babylon.js. (<https://virtual-cast.github.io/babylon-mtoon-material/>)
@@ -212,15 +227,21 @@ A curated list of awesome things related to Babylon.js
 * [Multiplayer Babylon JS "Game" with Client & Server-Side Physics Engine](https://github.com/j-o-d-o/multiplayer-babylon-js-game) - Multiplayer Babylon.js game with server and client-side physics engine synchronization. (<http://185.82.21.82:8700/>)
 * [Multiplayer FPS-Game](https://github.com/j-o-d-o/FPS-Game) - A Multiplayer FPS built with Babylon.js (<http://185.82.21.82/FPS-Game/public/>)
 * [nengi + Babylon 3D shooter template](https://github.com/timetocode/nengi-babylon-3d-shooter) - A template game for multiplayer 3D shooters made in Babylon.js + nengi.js
+* [Oculus Quest Remote Desktop](https://github.com/shinyoshiaki/oculus-quest-remote-desktop) - Remote desktop for Oculus Quest. Using Babylon.js, React and WebRTC. (<https://shinyoshiaki.github.io/oculus-quest-remote-desktop/build/>)
 * [Playlist Browser XR](https://github.com/Symbitic/PlaylistBrowserXR) - Browse Spotify playlists in Virtual Reality. (<https://www.playlistbrowserxr.xyz/>)
 * [react-babylonjs](https://github.com/brianzinn/react-babylonjs) - React for Babylon.js (<https://brianzinn.github.io/react-babylonjs/>)
 * [react-babylon-spring](https://github.com/hookex/react-babylon-spring) - Build spring-physics based 3D animation with the power of react-babylonjs and react-spring. (<https://hooke.life/react-babylon-spring/>)
 * [TanksBattle_WebGL_Using_Babylonjs](https://github.com/khaledose/TanksBattle_WebGL_Using_Babylonjs) - 3D Tanks Battle WebGL game using Babylon.js game engine. (<https://www.youtube.com/watch?v=HJrAUqTd1oU>)
+* [Tomb Raider Nostalgia](https://github.com/Popov72/TRN2) - View levels and play cut scenes for old Tomb Raider games 1/2/3/4. (<https://popov72.github.io/TRN2/>)
 * [VR Office Throwing Game](https://github.com/wilcoschoneveld/office) - A VR throwing game. (<https://office.wilcoschoneveld.com/>)
 * [Vue-BabylonJS](https://github.com/Beg-in/vue-babylonjs) - A ready-to-go 3D environment for Vue.js using Babylon.js (<https://vue-babylonjs.com/>)
 
 ## Links
 
+* [Babylon JS Day 10: Terrarium](https://radicalappdev.com/2021/03/12/babylon-js-day-10-terrarium/)
+* [Babylon JS Day 14: Cards](https://radicalappdev.com/2021/03/18/babylon-js-day-14/)
+* [Babylon JS Day 15: ScrollViewer 3D](https://radicalappdev.com/2021/03/19/babylon-js-day-15/)
+* [Babylon JS Day 19: Golf Club](https://radicalappdev.com/2021/03/25/babylon-js-day-19/)
 * [Babylon on Quest: One Small Step...](https://blairmacintyre.me/2019/11/20/babylon-on-quest-one-small-step/)
 * [Challenges of a web VR throwing game - DEV Community](https://dev.to/wilcoschoneveld/challenges-of-a-web-vr-throwing-game-1c66)
 
