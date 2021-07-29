@@ -195,6 +195,7 @@ A curated list of awesome things related to Babylon.js
 * [NeoTrap](https://github.com/ionic-proton/NeoTrap) - Music-based game built with Babylon.js (<https://omarxo.itch.io/neotrap>)
 * [Roll A Ball](https://github.com/impomales/roll-a-ball) - 3D Game to illustrate getting started with the BabylonJS game engine. (<https://roll-a-ball-babylon.herokuapp.com/>)
 * [Simple 3D FPS](https://github.com/TiagoSilvaPereira/simple-3d-fps) - A simple FPS game with BabylonJS engine following Clean Code principles. (<https://simple-3d-fps-game.herokuapp.com/>)
+* [Summer's Festival](https://github.com/BabylonJS/SummerFestival) - Source code for game tutorial written by capucat (<https://capucat.github.io/summers-festival/>)
 * [Theasis](https://github.com/ThanosRestas/Theasis) - FPS game using the BabylonJS framework. (<https://thanosrestas.github.io/Theasis/dist/index.html>)
 * [VoxelSrv](https://github.com/VoxelSrv/voxelsrv) - Voxel browser game inspired by Minecraft. (<http://voxelsrv-master.pb4.eu/>)
 
@@ -231,6 +232,7 @@ A curated list of awesome things related to Babylon.js
 * [Playlist Browser XR](https://github.com/Symbitic/PlaylistBrowserXR) - Browse Spotify playlists in Virtual Reality. (<https://www.playlistbrowserxr.xyz/>)
 * [react-babylonjs](https://github.com/brianzinn/react-babylonjs) - React for Babylon.js (<https://brianzinn.github.io/react-babylonjs/>)
 * [react-babylon-spring](https://github.com/hookex/react-babylon-spring) - Build spring-physics based 3D animation with the power of react-babylonjs and react-spring. (<https://hooke.life/react-babylon-spring/>)
+* [Space Jam: A New Legacy BabylonJS Mixed Reality Experience](https://github.com/microsoft/space-jam-a-new-legacy-babylonjs-template) - This repository pairs with the BabylonJS Mixed Reality module that is part of the Microsoft Learn learning path inspired by the *Space Jam: A New Legacy* film.
 * [TanksBattle_WebGL_Using_Babylonjs](https://github.com/khaledose/TanksBattle_WebGL_Using_Babylonjs) - 3D Tanks Battle WebGL game using Babylon.js game engine. (<https://www.youtube.com/watch?v=HJrAUqTd1oU>)
 * [Tomb Raider Nostalgia](https://github.com/Popov72/TRN2) - View levels and play cut scenes for old Tomb Raider games 1/2/3/4. (<https://popov72.github.io/TRN2/>)
 * [VR Office Throwing Game](https://github.com/wilcoschoneveld/office) - A VR throwing game. (<https://office.wilcoschoneveld.com/>)
