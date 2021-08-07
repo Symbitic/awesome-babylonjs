@@ -213,6 +213,7 @@ A curated list of awesome things related to Babylon.js
 * [babylonjs-oculus-quest-controller-input](https://github.com/flushpot1125/babylonjs-oculus-quest-controller-input) - How to take controller input.
 * [BabylonJS Typescript Logic Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) - A collection of small projects that show possible ways of handling game logic with BabylonJS
 * [babylonjs-typescript-webpack-starter](https://github.com/pandadelphin/babylonjs-typescript-webpack-starter) - A starter template for those who want to use the famous JavaScript 3D game engine Babylon.js with TypeScript and Webpack.
+* [babylonjs-webpack-es6](https://github.com/RaananW/babylonjs-webpack-es6) - Babylon.js basic scene with typescript, webpack, es6 modules, editorconfig, eslint, hot loading and more. Will even make coffee if you ask nicely.
 * [babylonjs-webxr-template](https://github.com/yuiseki/babylonjs-webxr-template) - Babylon.js + TypeScript WebXR template project. (<https://yuiseki.github.io/babylonjs-webxr-template/>)
 * [babylon-mtoon-material](https://github.com/virtual-cast/babylon-mtoon-material) - Unity MToon Shader WebGL porting to Babylon.js. (<https://virtual-cast.github.io/babylon-mtoon-material/>)
 * [babylon_ragdoll_robi](https://github.com/Takebon/babylon_ragdoll_robi) - Babylon.js ragdoll robot. (<https://ragdoll-robi.web.app/>)
