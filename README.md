@@ -46,37 +46,43 @@ A curated list of awesome things related to Babylon.js
 
 * 360 portal - <https://playground.babylonjs.com/#58I88I#186>
 * 3D UI - <https://playground.babylonjs.com/#947JF6#0>
-* Ammo.js Heightmap - <https://www.babylonjs-playground.com/#8T3YBR#2>
-* Basic Swimming Fish - <https://www.babylonjs-playground.com/#9CMU0F>
+* Ammo.js Heightmap - <https://playground.babylonjs.com/#8T3YBR#2>
+* Basic Swimming Fish - <https://playground.babylonjs.com/#9CMU0F>
 * Basketball - <https://playground.babylonjs.com/#AL6VAN#1>
 * Bowling - <https://playground.babylonjs.com/#6QYHV7#29>
+* Bowling lane - <https://playground.babylonjs.com/#7S3ZHU#15>
 * Buttons always face user - <https://playground.babylonjs.com/#CUH660#27>
-* Camera positioning on event - <https://www.babylonjs-playground.com/#0PHDVB#0>
-* Car following path - <https://www.babylonjs-playground.com/#1YD970#14>
-* Change color on collide - <https://www.babylonjs-playground.com/#502Z8L#0>
+* Camera positioning on event - <https://playground.babylonjs.com/#0PHDVB#0>
+* Car following path - <https://playground.babylonjs.com/#1YD970#14>
+* Change color on collide - <https://playground.babylonjs.com/#502Z8L#0>
 * Chessboard Demo - <https://playground.babylonjs.com/#AH85PF#53>
 * Circle menu - <https://playground.babylonjs.com/#092XX3#13>
-* Colliding and deforming cubes - <https://www.babylonjs-playground.com/#RGNDK2#2>
+* Collectible health packs - <https://playground.babylonjs.com/#U8MEB0#114>
+* Colliding and deforming cubes - <https://playground.babylonjs.com/#RGNDK2#2>
 * Custom button mesh - <https://playground.babylonjs.com/#D7LQDZ#1>
+* Exploding Lofi Sphere - <https://playground.babylonjs.com/#HDHQN#55>
+* Exploding Lofi Torus - <https://playground.babylonjs.com/#HDHQN>
 * Exploding Object with Solid Particles - <https://playground.babylonjs.com/#CWAQ1W#12>
+* Explosion on keydown - <https://playground.babylonjs.com/#VS5XS7#0>
 * Explosions + City burning - <https://playground.babylonjs.com/#4HUQQ#1479>
 * Fenerator 3D with explosion - <https://playground.babylonjs.com/#RDJ26Q#1288>
-* Flight Simulator Experiment - <https://www.babylonjs-playground.com/#UL7W2M>
+* Flight Simulator Experiment - <https://playground.babylonjs.com/#UL7W2M>
 * Fruit Ninja VR Game - <https://playground.babylonjs.com/#22KIIK#22>
 * Furball Shader - <https://playground.babylonjs.com/#LVJG7H>
-* Glowing marbles falling - <https://www.babylonjs-playground.com/#45FPFC#13>
+* Glowing marbles falling - <https://playground.babylonjs.com/#45FPFC#13>
 * Glow World - <https://playground.babylonjs.com/#6MQB2X#158>
 * God of War NME Weapons FX Demo - <https://playground.babylonjs.com/#7XU4D8#1>
-* Great White Shark - <https://www.babylonjs-playground.com/#ISZ7Y2>
+* Great White Shark - <https://playground.babylonjs.com/#ISZ7Y2>
 * Gun firing - <https://playground.babylonjs.com/#E8C51D#35>
 * Happy holidays custom font - <https://playground.babylonjs.com/#BP7QYG#13>
+* Happy Holidays 2020 VR - <https://playground.babylonjs.com/#0IRV8X#2>
 * HERO X - <https://playground.babylonjs.com/#A8X91Q#10>
 * Hit the cube - <https://playground.babylonjs.com/#0JC454#16>
 * Holographic keyboard - <https://playground.babylonjs.com/#LU3FLF#6>
 * Hopping game - <https://playground.babylonjs.com/#0IIB3N#44>
-* Joint Impulse Example - <https://www.babylonjs-playground.com/#UFVU18#18>
+* Joint Impulse Example - <https://playground.babylonjs.com/#UFVU18#18>
 * Laser Saber - <https://playground.babylonjs.com/#ZS41RU#0>
-* Lego Buggy Mesh - <https://www.babylonjs-playground.com/#K7TJIG>
+* Lego Buggy Mesh - <https://playground.babylonjs.com/#K7TJIG>
 * Light Paddle - <https://playground.babylonjs.com/#6C8005#1>
 * Mallot and Nail VR - <https://playground.babylonjs.com/#IT1QZU#13>
 * Marble Tower - <https://playground.babylonjs.com/#3I55DK#0>
@@ -87,30 +93,34 @@ A curated list of awesome things related to Babylon.js
 * Progressive loading of glTF with LOD - <https://playground.babylonjs.com/#ARN6TJ#5>
 * Pulsars / Imps - <https://playground.babylonjs.com/#1ND6TH#265>
 * Rollercoaster - <https://playground.babylonjs.com/#1HH4OJ#29>
-* Simple XmlLoader GUI - <https://www.babylonjs-playground.com/#S0IW99#23>
+* Shattered mesh with baked physics demo - <https://playground.babylonjs.com/#1BGGDU>
+* Simple XmlLoader GUI - <https://playground.babylonjs.com/#S0IW99#23>
 * Slice mesh - <https://playground.babylonjs.com/#B2DP5I#7>
 * Soft body physics - wrecking ball + blocks - <https://playground.babylonjs.com/#8WC6ZN#121>
+* Solid Particle System collisions - <https://playground.babylonjs.com/#10RCC9>
 * Space Invader - <https://playground.babylonjs.com/#JXJBPS#5>
 * Space Ship Battle - <https://playground.babylonjs.com/#G03CV5#0>
 * Spheres change color only when looked at - <https://playground.babylonjs.com/#0MGV2I#0>
+* SPS change color on click - <https://playground.babylonjs.com/#2FPT1A#351>
 * StakeShooter - <https://playground.babylonjs.com/#Z88Q4W#19>
-* Tank playground with sound - <https://www.babylonjs-playground.com/#52M011#1>
-* Tap to Bounce - <https://www.babylonjs-playground.com/#88MM6V#0>
+* Table billards - <https://playground.babylonjs.com/#1DDSV5>
+* Tank playground with sound - <https://playground.babylonjs.com/#52M011#1>
+* Tap to Bounce - <https://playground.babylonjs.com/#88MM6V#0>
 * Targeting System - <https://playground.babylonjs.com/#CMS27E#11>
 * TestTowerDef2 - <https://playground.babylonjs.com/#XP6NNP#42>
-* The Pirate Fort - <https://www.babylonjs-playground.com/#C21DGD#3>
+* The Pirate Fort - <https://playground.babylonjs.com/#C21DGD#3>
 * Track with Carriage Following It (First Person) - <https://playground.babylonjs.com/#SQFG0Q#6>
 * Track with Carriage Following It (Third Person) - <https://playground.babylonjs.com/#SQFG0Q#5>
 * Trailing mesh - <https://playground.babylonjs.com/#Z07JE1#2>
 * Under Water Demo - <https://playground.babylonjs.com/#LPTLZM>
-* Velocity test on soccer balls - <https://www.babylonjs-playground.com/#5W4GH1#10>
+* Velocity test on soccer balls - <https://playground.babylonjs.com/#5W4GH1#10>
 * Virtual Joystick GUI - <https://playground.babylonjs.com/#C6V6UY#49>
-* Virtual Tour Booth - <https://www.babylonjs-playground.com/#1JDJ9F#9>
+* Virtual Tour Booth - <https://playground.babylonjs.com/#1JDJ9F#9>
 * Watch out for swords!!! - <https://playground.babylonjs.com/#ZD364L#17>
 * WebXR Catching Game - <https://playground.babylonjs.com/#PKQ6JV#3>
 * WebXR Physics playground - <https://playground.babylonjs.com/#B922X8#19>
 * XR Goal Keeper Trainer: <https://playground.babylonjs.com/#PPM311#99>
-* Yoshi Falling Balls - <https://www.babylonjs-playground.com/#73TUXW#0>
+* Yoshi Falling Balls - <https://playground.babylonjs.com/#73TUXW#0>
 
 ## Demos
 
@@ -230,6 +240,7 @@ A curated list of awesome things related to Babylon.js
 * [Multiplayer FPS-Game](https://github.com/j-o-d-o/FPS-Game) - A Multiplayer FPS built with Babylon.js (<http://185.82.21.82/FPS-Game/public/>)
 * [nengi + Babylon 3D shooter template](https://github.com/timetocode/nengi-babylon-3d-shooter) - A template game for multiplayer 3D shooters made in Babylon.js + nengi.js
 * [Oculus Quest Remote Desktop](https://github.com/shinyoshiaki/oculus-quest-remote-desktop) - Remote desktop for Oculus Quest. Using Babylon.js, React and WebRTC. (<https://shinyoshiaki.github.io/oculus-quest-remote-desktop/build/>)
+* [Palmer-JC.github.io](https://github.com/Palmer-JC/Palmer-JC.github.io) - The author's various personal demos, including [Whoopstopia](https://palmer-jc.github.io/scenes/whoopstopia/) and [Blow Me, Baby](https://palmer-jc.github.io/scenes/blow_me_baby/).
 * [Playlist Browser XR](https://github.com/Symbitic/PlaylistBrowserXR) - Browse Spotify playlists in Virtual Reality. (<https://www.playlistbrowserxr.xyz/>)
 * [react-babylonjs](https://github.com/brianzinn/react-babylonjs) - React for Babylon.js (<https://brianzinn.github.io/react-babylonjs/>)
 * [react-babylon-spring](https://github.com/hookex/react-babylon-spring) - Build spring-physics based 3D animation with the power of react-babylonjs and react-spring. (<https://hooke.life/react-babylon-spring/>)
@@ -247,6 +258,8 @@ A curated list of awesome things related to Babylon.js
 * [Babylon JS Day 19: Golf Club](https://radicalappdev.com/2021/03/25/babylon-js-day-19/)
 * [Babylon on Quest: One Small Step...](https://blairmacintyre.me/2019/11/20/babylon-on-quest-one-small-step/)
 * [Challenges of a web VR throwing game - DEV Community](https://dev.to/wilcoschoneveld/challenges-of-a-web-vr-throwing-game-1c66)
+* [Mesh shattering with baked physics](https://babylonjs.medium.com/mesh-shattering-with-baked-physics-5b3f8f381743)
+* [Using WebXR With Babylon.js — Smashing Magazine](https://www.smashingmagazine.com/2020/10/using-webxr-with-babylonjs/)
 
 ## Contributing
 
