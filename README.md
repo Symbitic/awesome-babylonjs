@@ -11,6 +11,7 @@ A curated list of awesome things related to Babylon.js
     - [Scenes](#scenes)
     - [Games](#games)
     - [Projects](#projects)
+    - [Snippets](#snippets)
     - [Links](#links)
 * [Contributing](#contributing)
 * [License](#license)
@@ -220,6 +221,7 @@ A curated list of awesome things related to Babylon.js
 *Open source games built with Babylon.js*
 
 * [Alien Cargo](https://github.com/vudugun/AlienCargo) - A WebGL 3D game inspired by the classic puzzle game Sokoban. (<https://vudugun.github.io/AlienCargo/>)
+* [Block](https://github.com/Temechon/block) - A puzzle game made with Babylon.js (<http://pixelcodr.com/games/block/game.html>)
 * [Cube Endless Runner](https://github.com/TiagoSilvaPereira/endless-runner-3d) - Cube Endless Runner is a 3D game built with BabylonJS engine on top of WebGL and HTML5 technologies. (<https://cube-endless-runner.herokuapp.com/>)
 * [Defend](https://github.com/xtreemze/defend) - Procedural Cross-Platform 3D Tower Defense Web Game with Physics and AI and Procedural Sound. (<https://xtreemze.github.io/defend/>)
 * [Attack of the Killer Bunnies](https://github.com/farmersanonymous/killer-bunnies) - Where bunnies go to die. (<https://ericbroberic.itch.io/attack-of-the-killer-bunnies>)
@@ -254,9 +256,10 @@ A curated list of awesome things related to Babylon.js
 * [Bomberman 3D](https://github.com/adisoftbn/Bomberman3D) - Experimental game dev with Babylon.js and Angular 5. (<https://adisoftbn.github.io/Bomberman3D/>)
 * [Christmas runner](https://github.com/Temechon/Christmas-runner) - A Babylon.js game made for Christmas. (<http://pixelcodr.com/games/christmasRunner/>)
 * [ecsy-babylon](https://github.com/kaliber5/ecsy-babylon) - Experimental implementation of ECSY for Babylon.js
+* [Epic Guide](https://github.com/Temechon/Babylon.js-FPS) - A game about going for a walk in a friendly world :) (<http://pixelcodr.com/games/babylonjs-fps/>)
 * [fps-babylon-js](https://github.com/Raigyo/fps-babylon-js) - Online Multiplayer First Person Shooter with Babylon.js & SocketIO. (<https://babylon-fps-online.herokuapp.com/>)
 * [HTML5 FPS](https://github.com/csarkosh/html5-fps) - Demo of an HTML5 first-person rig built on Babylon.js and React. (<https://fps.csarko.sh/>)
-* [Kicker](https://github.com/Temechon/kicker) - A soccer ball game made for Babylon.js February Challenge.
+* [Kicker](https://github.com/Temechon/kicker) - A soccer ball game made for Babylon.js February Challenge. - (<http://pixelcodr.com/games/kicker/>)
 * [KZ Climbing](https://github.com/BabylonJSGames/BabylonJS-Platformer-Game-Prototype) - A 3D platformer browser game prototype made with the Babylon.js framework written in TypeScript. (<https://kzclimbing.netlify.app/client/public/>)
 * [Molvwr](https://github.com/gleborgne/molvwr) - WebGL molecule viewer made with Babylon.js (<https://gleborgne.github.io/molvwr/>)
 * [Multiplayer Babylon JS "Game" with Client & Server-Side Physics Engine](https://github.com/j-o-d-o/multiplayer-babylon-js-game) - Multiplayer Babylon.js game with server and client-side physics engine synchronization. (<http://185.82.21.82:8700/>)
@@ -268,12 +271,25 @@ A curated list of awesome things related to Babylon.js
 * [react-babylonjs](https://github.com/brianzinn/react-babylonjs) - React for Babylon.js (<https://brianzinn.github.io/react-babylonjs/>)
 * [react-babylon-spring](https://github.com/hookex/react-babylon-spring) - Build spring-physics based 3D animation with the power of react-babylonjs and react-spring. (<https://hooke.life/react-babylon-spring/>)
 * [Space Jam: A New Legacy BabylonJS Mixed Reality Experience](https://github.com/microsoft/space-jam-a-new-legacy-babylonjs-template) - This repository pairs with the BabylonJS Mixed Reality module that is part of the Microsoft Learn learning path inspired by the *Space Jam: A New Legacy* film.
+* [Swarm](https://temechon.itch.io/swarm) - A Babylon.js scene made for the screensaver jam. (<https://github.com/Temechon/screensaver>)
 * [TanksBattle_WebGL_Using_Babylonjs](https://github.com/khaledose/TanksBattle_WebGL_Using_Babylonjs) - 3D Tanks Battle WebGL game using Babylon.js game engine. (<https://www.youtube.com/watch?v=HJrAUqTd1oU>)
 * [Tomb Raider Nostalgia](https://github.com/Popov72/TRN2) - View levels and play cut scenes for old Tomb Raider games 1/2/3/4. (<https://popov72.github.io/TRN2/>)
 * [VR Office Throwing Game](https://github.com/wilcoschoneveld/office) - A VR throwing game. (<https://office.wilcoschoneveld.com/>)
 * [Vue-BabylonJS](https://github.com/Beg-in/vue-babylonjs) - A ready-to-go 3D environment for Vue.js using Babylon.js (<https://vue-babylonjs.com/>)
 
+## Snippets
+
+*Single-file demos of Babylon on the web.*
+
+* [Roller coaster](https://jerome.bousquie.fr/BJS/demos/rollercoaster.html) ([JS](https://jerome.bousquie.fr/BJS/demos/rollercoaster.js))
+* [Star Fighter](http://jerome.bousquie.fr/BJS/OfficeGames/StarFighter/StarFighter.html) ([JS](https://github.com/jbousquie/OfficeGames/blob/master/StarFighter/StarFighter.js))
+* [Blowing Wall](https://jerome.bousquie.fr/BJS/demos/blow.html) ([JS](https://jerome.bousquie.fr/BJS/demos/blow.js))
+* [Trailing Particles](https://jerome.bousquie.fr/BJS/demos/trailingParticles.html) ([JS](https://jerome.bousquie.fr/BJS/demos/trailingParticles.js))
+* [SPS AssemblyScript Demo](https://jerome.bousquie.fr/BJS/test/SPSWasm/spsWasm.html) ([JS](https://jerome.bousquie.fr/BJS/test/SPSWasm/spsWasm.js), [AS](https://jerome.bousquie.fr/BJS/test/SPSWasm/index.ts))
+
 ## Links
+
+*Information by developers, for developers.*
 
 * [Babylon JS Day 10: Terrarium](https://radicalappdev.com/2021/03/12/babylon-js-day-10-terrarium/)
 * [Babylon JS Day 14: Cards](https://radicalappdev.com/2021/03/18/babylon-js-day-14/)
