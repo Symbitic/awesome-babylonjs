@@ -79,8 +79,10 @@ A curated list of awesome things related to Babylon.js
 * Furball Shader - <https://playground.babylonjs.com/#LVJG7H>
 * Glowing marbles falling - <https://playground.babylonjs.com/#45FPFC#13>
 * Glow World - <https://playground.babylonjs.com/#6MQB2X#158>
+* Grab and move a ball in WebXR - <https://playground.babylonjs.com/#HY823G#7>
 * God of War NME Weapons FX Demo - <https://playground.babylonjs.com/#7XU4D8#1>
 * Great White Shark - <https://playground.babylonjs.com/#ISZ7Y2>
+* GUI follows viewpoint in WebXR - <https://playground.babylonjs.com/#HJZBRG#100>
 * Gun firing - <https://playground.babylonjs.com/#E8C51D#35>
 * Happy Holidays 2020 VR - <https://playground.babylonjs.com/#0IRV8X#2>
 * Happy holidays custom font - <https://playground.babylonjs.com/#BP7QYG#13>
