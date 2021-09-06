@@ -99,7 +99,6 @@ A curated list of awesome things related to Babylon.js
 * Music Visualizer - <https://playground.babylonjs.com/#MNC4HP>
 * Newton cradle - <https://playground.babylonjs.com/#8WC6ZN#112>
 * Open url by clicking object - <https://playground.babylonjs.com/#11XV5X#13>
-* PGDemo - <https://playground.babylonjs.com/#U8MEB0#114>
 * physicsImposter parenting - <https://playground.babylonjs.com/#ZENDZ2#0>
 * Ping pong in 3D - <https://playground.babylonjs.com/#RYXIT#9>
 * Point Cloud Morphing - <https://playground.babylonjs.com/#2S8L5U#1>
