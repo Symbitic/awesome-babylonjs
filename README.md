@@ -121,7 +121,7 @@ A curated list of awesome things related to Babylon.js
 * StakeShooter - <https://playground.babylonjs.com/#Z88Q4W#19>
 * Submarine - <https://playground.babylonjs.com/#165IV6#2526>
 * Table billards - <https://playground.babylonjs.com/#1DDSV5>
-* Tank playground with sound - <https://playground.babylonjs.com/#52M011#1>
+* Tank playground with sound - <https://playground.babylonjs.com/#52M011#2>
 * Tap to Bounce - <https://playground.babylonjs.com/#88MM6V#0>
 * Targeting System - <https://playground.babylonjs.com/#CMS27E#11>
 * TestTowerDef2 - <https://playground.babylonjs.com/#XP6NNP#42>
@@ -141,7 +141,6 @@ A curated list of awesome things related to Babylon.js
 * WebXR Physics playground - <https://playground.babylonjs.com/#B922X8#19>
 * WebXR Tennis game - <https://playground.babylonjs.com/#CHF3KW#108>
 * XR Goal Keeper Trainer: <https://playground.babylonjs.com/#PPM311#99>
-* XR Throw Lab - <https://playground.babylonjs.com/#K1WGX0#35>
 * XR Throw Lab - <https://playground.babylonjs.com/#K1WGX0#36>
 * Yellow sphere volumetric light mini-game - <https://playground.babylonjs.com/#LYCSQ#256>
 * Yoshi Falling Balls - <https://playground.babylonjs.com/#73TUXW#0>
