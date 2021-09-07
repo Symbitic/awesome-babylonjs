@@ -228,7 +228,7 @@ A curated list of awesome things related to Babylon.js
 * [Attack of the Killer Bunnies](https://github.com/farmersanonymous/killer-bunnies) - Where bunnies go to die. (<https://ericbroberic.itch.io/attack-of-the-killer-bunnies>)
 * [Light Speed Ready!](https://github.com/Xanmia/Light-Speed-Ready) - A spaceship game of gathering resources and leveling your ship. (<http://www.kraem.com/Light-Speed-Ready/game.html>)
 * [NeoTrap](https://github.com/ionic-proton/NeoTrap) - Music-based game built with Babylon.js (<https://omarxo.itch.io/neotrap>)
-* * [Raucous Running and Rampaging Robot Racer Rally (R6)](https://github.com/hrr8-hermes/hrr8-hermes) - A fast-paced many-explosion robot racer game. (<https://r6redux.herokuapp.com/>)
+* [Raucous Running and Rampaging Robot Racer Rally (R6)](https://github.com/hrr8-hermes/hrr8-hermes) - A fast-paced many-explosion robot racer game. (<https://r6redux.herokuapp.com/>)
 * [Roll A Ball](https://github.com/impomales/roll-a-ball) - 3D Game to illustrate getting started with the BabylonJS game engine. (<https://roll-a-ball-babylon.herokuapp.com/>)
 * [Simple 3D FPS](https://github.com/TiagoSilvaPereira/simple-3d-fps) - A simple FPS game with BabylonJS engine following Clean Code principles. (<https://simple-3d-fps-game.herokuapp.com/>)
 * [Summer's Festival](https://github.com/BabylonJS/SummerFestival) - Source code for game tutorial written by capucat (<https://capucat.github.io/summers-festival/>)
