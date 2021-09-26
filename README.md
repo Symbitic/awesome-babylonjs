@@ -100,6 +100,7 @@ A curated list of awesome things related to Babylon.js
 * Music Visualizer - <https://playground.babylonjs.com/#MNC4HP>
 * Newton cradle - <https://playground.babylonjs.com/#8WC6ZN#112>
 * Open url by clicking object - <https://playground.babylonjs.com/#11XV5X#13>
+* Pac-Man Arcade Machine in WebXR - <https://playground.babylonjs.com/#4WPJCV#34>
 * physicsImposter parenting - <https://playground.babylonjs.com/#ZENDZ2#0>
 * Ping pong in 3D - <https://playground.babylonjs.com/#RYXIT#9>
 * Point Cloud Morphing - <https://playground.babylonjs.com/#2S8L5U#1>
@@ -277,6 +278,7 @@ A curated list of awesome things related to Babylon.js
 * [Tomb Raider Nostalgia](https://github.com/Popov72/TRN2) - View levels and play cut scenes for old Tomb Raider games 1/2/3/4. (<https://popov72.github.io/TRN2/>)
 * [VR Office Throwing Game](https://github.com/wilcoschoneveld/office) - A VR throwing game. (<https://office.wilcoschoneveld.com/>)
 * [Vue-BabylonJS](https://github.com/Beg-in/vue-babylonjs) - A ready-to-go 3D environment for Vue.js using Babylon.js (<https://vue-babylonjs.com/>)
+* [WebXR Measuring Tape](https://github.com/Narendra-Kamath/webxr-measuring-tape) - :zap: An Augmented Reality real-world length measuring web application built by the modification of the example being provided by babylonjs - concept of using WebXR HitTarget feature. (<https://narendra-kamath.github.io/webxr-measuring-tape/>)
 
 ## Snippets
 
