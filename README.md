@@ -64,6 +64,7 @@ A curated list of awesome things related to Babylon.js
 * Circle menu - <https://playground.babylonjs.com/#092XX3#13>
 * Collectible health packs - <https://playground.babylonjs.com/#U8MEB0#114>
 * Colliding and deforming cubes - <https://playground.babylonjs.com/#RGNDK2#2>
+* Coronavirus - <https://playground.babylonjs.com/#3FJZD5#4>
 * Custom button mesh - <https://playground.babylonjs.com/#D7LQDZ#1>
 * Custom WebXR controller mesh - <https://playground.babylonjs.com/#355XBJ#16>
 * Dock the boat - <https://playground.babylonjs.com/#5MJ1X9#13>
