@@ -126,6 +126,7 @@ A curated list of awesome things related to Babylon.js
 * Tank playground with sound - <https://playground.babylonjs.com/#52M011#2>
 * Tap to Bounce - <https://playground.babylonjs.com/#88MM6V#0>
 * Targeting System - <https://playground.babylonjs.com/#CMS27E#11>
+* TensorFlow.js + Webcam Demo - <https://playground.babylonjs.com/#H19VH7#44>
 * TestTowerDef2 - <https://playground.babylonjs.com/#XP6NNP#42>
 * The Pirate Fort - <https://playground.babylonjs.com/#C21DGD#3>
 * Tic-Tac-Toe - <https://playground.babylonjs.com/#2WR12Z#2>
