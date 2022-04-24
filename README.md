@@ -11,8 +11,9 @@ A curated list of awesome things related to Babylon.js
     - [Scenes](#scenes)
     - [Games](#games)
     - [Projects](#projects)
-    - [Snippets](#snippets)
+    - [Examples](#examples)
     - [Links](#links)
+    - [Forum](#forum)
 * [Contributing](#contributing)
 * [License](#license)
 
@@ -97,6 +98,7 @@ A curated list of awesome things related to Babylon.js
 * Light Paddle - <https://playground.babylonjs.com/#6C8005#1>
 * Mallot and Nail VR - <https://playground.babylonjs.com/#IT1QZU#13>
 * Marble Tower - <https://playground.babylonjs.com/#3I55DK#0>
+* Mesh Speech Synthesis API - <https://playground.babylonjs.com/#NE96B8#10>
 * Music Visualizer - <https://playground.babylonjs.com/#MNC4HP>
 * Newton cradle - <https://playground.babylonjs.com/#8WC6ZN#112>
 * Open url by clicking object - <https://playground.babylonjs.com/#11XV5X#13>
@@ -268,6 +270,7 @@ A curated list of awesome things related to Babylon.js
 * [Multiplayer Babylon JS "Game" with Client & Server-Side Physics Engine](https://github.com/j-o-d-o/multiplayer-babylon-js-game) - Multiplayer Babylon.js game with server and client-side physics engine synchronization. (<http://185.82.21.82:8700/>)
 * [Multiplayer FPS-Game](https://github.com/j-o-d-o/FPS-Game) - A Multiplayer FPS built with Babylon.js (<http://185.82.21.82/FPS-Game/public/>)
 * [nengi + Babylon 3D shooter template](https://github.com/timetocode/nengi-babylon-3d-shooter) - A template game for multiplayer 3D shooters made in Babylon.js + nengi.js
+* [OceanDemo](https://github.com/Popov72/OceanDemo) - Ocean demo in WebGPU with Babylon.js (<https://popov72.github.io/OceanDemo/dist/index.html>)
 * [Oculus Quest Remote Desktop](https://github.com/shinyoshiaki/oculus-quest-remote-desktop) - Remote desktop for Oculus Quest. Using Babylon.js, React and WebRTC. (<https://shinyoshiaki.github.io/oculus-quest-remote-desktop/build/>)
 * [Palmer-JC.github.io](https://github.com/Palmer-JC/Palmer-JC.github.io) - The author's various personal demos, including [Whoopstopia](https://palmer-jc.github.io/scenes/whoopstopia/) and [Blow Me, Baby](https://palmer-jc.github.io/scenes/blow_me_baby/).
 * [Playlist Browser XR](https://github.com/Symbitic/PlaylistBrowserXR) - Browse Spotify playlists in Virtual Reality. (<https://www.playlistbrowserxr.xyz/>)
@@ -280,16 +283,25 @@ A curated list of awesome things related to Babylon.js
 * [VR Office Throwing Game](https://github.com/wilcoschoneveld/office) - A VR throwing game. (<https://office.wilcoschoneveld.com/>)
 * [Vue-BabylonJS](https://github.com/Beg-in/vue-babylonjs) - A ready-to-go 3D environment for Vue.js using Babylon.js (<https://vue-babylonjs.com/>)
 * [WebXR Measuring Tape](https://github.com/Narendra-Kamath/webxr-measuring-tape) - :zap: An Augmented Reality real-world length measuring web application built by the modification of the example being provided by babylonjs - concept of using WebXR HitTarget feature. (<https://narendra-kamath.github.io/webxr-measuring-tape/>)
+* [yuka-babylonjs-examples](https://github.com/eldinor/yuka-babylonjs-examples) - Yuka Game AI + 3D rendering with Babylon.js (<https://yuka.babylonpress.org/>)
+* [yuka-babylonjs-ts-starter](https://github.com/eldinor/yuka-babylonjs-ts-starter) - Yuka Game AI + Babylon.js Typescript Starter.
 
-## Snippets
+## Examples
 
-*Single-file demos of Babylon on the web.*
+*Demos of Babylon.js on the web.*
 
 * [Roller coaster](https://jerome.bousquie.fr/BJS/demos/rollercoaster.html) ([JS](https://jerome.bousquie.fr/BJS/demos/rollercoaster.js))
 * [Star Fighter](http://jerome.bousquie.fr/BJS/OfficeGames/StarFighter/StarFighter.html) ([JS](https://github.com/jbousquie/OfficeGames/blob/master/StarFighter/StarFighter.js))
 * [Blowing Wall](https://jerome.bousquie.fr/BJS/demos/blow.html) ([JS](https://jerome.bousquie.fr/BJS/demos/blow.js))
 * [Trailing Particles](https://jerome.bousquie.fr/BJS/demos/trailingParticles.html) ([JS](https://jerome.bousquie.fr/BJS/demos/trailingParticles.js))
 * [SPS AssemblyScript Demo](https://jerome.bousquie.fr/BJS/test/SPSWasm/spsWasm.html) ([JS](https://jerome.bousquie.fr/BJS/test/SPSWasm/spsWasm.js), [AS](https://jerome.bousquie.fr/BJS/test/SPSWasm/index.ts))
+* [Yuka Corridor Algorithm](https://yuka.babylonpress.org/examples/js/graph/corridor/) - ([GitHub](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/graph/corridor))
+* [Yuka First-Person Shooter](https://yuka.babylonpress.org/examples/js/playground/shooter/) - ([GitHub](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/playground/shooter))
+* [Yuka Hide And Seek Shooter](https://yuka.babylonpress.org/examples/js/playground/hideAndSeek/) - ([GitHub](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/playground/hideAndSeek))
+* [Yuka Navigation Mesh](https://yuka.babylonpress.org/examples/js/navigation/navmesh/) - ([GitHub](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/navigation/navmesh))
+* [Yuka Navmesh Performance](https://yuka.babylonpress.org/examples/js/navigation/navmeshPerformance/) - ([GitHub](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/navigation/navmeshPerformance))
+* [Yuka Savegames](https://yuka.babylonpress.org/examples/js/misc/savegame/) - ([GitHub](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/misc/savegame))
+* [Yuka Tic-Tac-Toe](https://yuka.babylonpress.org/examples/js/graph/tictactoe/) ([GitHub](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/graph/tictactoe))
 
 ## Links
 
@@ -305,6 +317,15 @@ A curated list of awesome things related to Babylon.js
 * [Mesh shattering with baked physics](https://babylonjs.medium.com/mesh-shattering-with-baked-physics-5b3f8f381743)
 * [Optimizing a Large-Scale Babylon.js Scene](https://joepavitt.medium.com/optimizing-a-large-scale-babylon-js-scene-9466bb715e15)
 * [Using WebXR With Babylon.js — Smashing Magazine](https://www.smashingmagazine.com/2020/10/using-webxr-with-babylonjs/)
+* [Yuka + Babylon.js Examples - Game AI Examples with Babylon.js](https://yuka.babylonpress.org/examples/)
+
+## Forum
+
+*Valuable and informative links from the Babylon.js forum.*
+
+* [Babylon + Next.js Setup Optimized for SEO, Load Speed & Developer Experience](https://forum.babylonjs.com/t/babylon-next-js-setup-optimized-for-seo-load-speed-developer-experience/27412)
+* [Observablehq.com + BabylonJS StarterKit](https://forum.babylonjs.com/t/observablehq-com-babylonjs-starterkit/24791)
+* [Yuka Game AI + Babylon.js Examples](https://forum.babylonjs.com/t/yuka-game-ai-babylon-js-examples-the-1st-release/27690)
 
 ## Contributing
 
