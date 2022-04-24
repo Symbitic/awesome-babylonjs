@@ -300,8 +300,10 @@ A curated list of awesome things related to Babylon.js
 * [Babylon JS Day 15: ScrollViewer 3D](https://radicalappdev.com/2021/03/19/babylon-js-day-15/)
 * [Babylon JS Day 19: Golf Club](https://radicalappdev.com/2021/03/25/babylon-js-day-19/)
 * [Babylon on Quest: One Small Step...](https://blairmacintyre.me/2019/11/20/babylon-on-quest-one-small-step/)
+* [Building the Web-Based 3d Digital Experience for the Mayflower Autonomous Ship](https://joepavitt.medium.com/building-the-web-based-3d-digital-experience-for-the-mayflower-autonomous-ship-a56f08e6558)
 * [Challenges of a web VR throwing game - DEV Community](https://dev.to/wilcoschoneveld/challenges-of-a-web-vr-throwing-game-1c66)
 * [Mesh shattering with baked physics](https://babylonjs.medium.com/mesh-shattering-with-baked-physics-5b3f8f381743)
+* [Optimizing a Large-Scale Babylon.js Scene](https://joepavitt.medium.com/optimizing-a-large-scale-babylon-js-scene-9466bb715e15)
 * [Using WebXR With Babylon.js — Smashing Magazine](https://www.smashingmagazine.com/2020/10/using-webxr-with-babylonjs/)
 
 ## Contributing
