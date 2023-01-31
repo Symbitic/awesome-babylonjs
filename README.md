@@ -1,6 +1,6 @@
 # Awesome Babylon.js [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-<a href="https://www.babylonjs.com/"><img alt="Babylon.js logo" src="media/logo.svg" align="right" width="250" /></a>
+<a href="https://www.babylonjs.com/"><img alt="Babylon.js logo" src="media/logo.svg" align="right" width="200" /></a>
 
 > A curated list of _awesome_ things related to the Babylon.js game engine.
 
