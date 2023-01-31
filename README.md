@@ -4,10 +4,7 @@
 
 > A curated list of _awesome_ things related to the Babylon.js game engine.
 
-[Babylon.js](https://www.babylonjs.com/) is an open-source game and rendering
-engine written in TypeScript designed to be powerful, beautiful, simple and
-open. It supports cross-platform game development through WebGL, WebGPU, and the
-Babylon Native runtime.
+[Babylon.js](https://www.babylonjs.com/) is an open-source game and rendering engine written in TypeScript designed to be powerful, beautiful, simple and open. It supports cross-platform game development through WebGL, WebGPU, and the Babylon Native runtime.
 
 > Your contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) to get started.
 
