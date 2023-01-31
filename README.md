@@ -1,10 +1,13 @@
 # Awesome Babylon.js [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-<a href="https://www.babylonjs.com/"><img src="logo.png" alt="Babylon.js logo" width="500" /></a>
+<a href="https://www.babylonjs.com/"><img alt="Babylon.js logo" src="babylon-logo.svg" align="right" width="100" /></a>
 
 > A curated list of _awesome_ things related to the Babylon.js game engine.
 
-[Babylon.js](https://www.babylonjs.com/) is an open-source game and rendering engine written in TypeScript designed to be powerful, beautiful, simple and open.
+[Babylon.js](https://www.babylonjs.com/) is an open-source game and rendering
+engine written in TypeScript designed to be powerful, beautiful, simple and
+open. It supports cross-platform game development through WebGL, WebGPU, and the
+Babylon Native runtime.
 
 ## Contents
 
@@ -37,10 +40,10 @@ _Official Babylon.js links._
 - [Babylon React Native](https://www.babylonjs.com/reactnative/)
 - [Partners Using Babylon.js](https://www.babylonjs.com/partners/)
 - Social Media
-    - [GitHub](https://github.com/BabylonJS/Babylon.js)
-    - [Medium](https://babylonjs.medium.com/)
-    - [Twitter](https://twitter.com/babylonjs)
-    - [YouTube Channel](https://www.youtube.com/channel/UCyOemMa5EJkIgVavJjSCLKQ)
+  - [GitHub](https://github.com/BabylonJS/Babylon.js)
+  - [Medium](https://babylonjs.medium.com/)
+  - [Twitter](https://twitter.com/babylonjs)
+  - [YouTube Channel](https://www.youtube.com/channel/UCyOemMa5EJkIgVavJjSCLKQ)
 - [SpectorJS - Explore and Troubleshoot your WebGL scenes with ease](https://spector.babylonjs.com/)
 - [Start Contributing to Babylon.js](https://doc.babylonjs.com/divingDeeper/developWithBjs/howToStart)
 
@@ -53,7 +56,6 @@ _Books about or for Babylon.js developers._
 - <https://aka.ms/BabylonJSBook>
 - <https://doc.babylonjs.com/guidedLearning/bjsBook>
 - <https://www.liquidelectron.com/going-the-distance-book/>
-
 
 ## Playground
 
