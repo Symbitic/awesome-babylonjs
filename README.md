@@ -1,6 +1,6 @@
 # Awesome Babylon.js [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-<a href="https://www.babylonjs.com/"><img alt="Babylon.js logo" src="babylon-logo.svg" align="right" width="100" /></a>
+<a href="https://www.babylonjs.com/"><img alt="Babylon.js logo" src="media/logo.svg" align="right" width="250" /></a>
 
 > A curated list of _awesome_ things related to the Babylon.js game engine.
 
@@ -8,6 +8,8 @@
 engine written in TypeScript designed to be powerful, beautiful, simple and
 open. It supports cross-platform game development through WebGL, WebGPU, and the
 Babylon Native runtime.
+
+Your contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) to get started.
 
 ## Contents
 
@@ -359,9 +361,3 @@ _Valuable and informative links from the Babylon.js forum._
 - [GitHub Skyline – showcase on Babylon website?](https://forum.babylonjs.com/t/github-skyline-showcase-on-babylon-website/31915)
 - [Observablehq.com + BabylonJS StarterKit](https://forum.babylonjs.com/t/observablehq-com-babylonjs-starterkit/24791)
 - [Yuka Game AI + Babylon.js Examples](https://forum.babylonjs.com/t/yuka-game-ai-babylon-js-examples-the-1st-release/27690)
-
-## Contributing
-
-Your contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) to get started.
-
-_If you see something here that is no longer maintained or is not a good fit, feel free to submit a pull request._
