@@ -1,6 +1,6 @@
 # Awesome Babylon.js [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-<a href="https://www.babylonjs.com/"><img alt="Babylon.js logo" src="media/logo.svg" align="right" width="200" /></a>
+<a href="https://www.babylonjs.com/"><img alt="Babylon.js logo" src="media/logo.svg" align="right" width="150" /></a>
 
 > A curated list of _awesome_ things related to the Babylon.js game engine.
 
@@ -9,7 +9,7 @@ engine written in TypeScript designed to be powerful, beautiful, simple and
 open. It supports cross-platform game development through WebGL, WebGPU, and the
 Babylon Native runtime.
 
-Your contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) to get started.
+> Your contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) to get started.
 
 ## Contents
 
@@ -275,7 +275,7 @@ _Open source projects using Babylon.js_
 - [BabylonJSFirstSteps](https://github.com/topheman/BabylonJSFirstSteps) - You will find here my first steps on Babylon.js (<http://labs.topheman.com/babylonjs/cone-example.html>)
 - [Babylon.js "magic" piano portal](https://github.com/docEdub/babylonjs-ar-piano-portal) - An augmented-reality WebXR animation of Chopin's "Winter Wind" Étude to hang on your wall! Works on flat-screen, too. See it live at <https://demos.babylonjs.com/piano-portal/>.
 - [babylonjs-oculus-quest-controller-input](https://github.com/flushpot1125/babylonjs-oculus-quest-controller-input) - How to take controller input.
-- [BabylonJS Typescript Logic Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) - A collection of small projects that show possible ways of handling game logic with BabylonJS
+- [BabylonJS Typescript Logic Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) - A collection of small projects that show possible ways of handling game logic with BabylonJS.
 - [babylonjs-typescript-webpack-starter](https://github.com/pandadelphin/babylonjs-typescript-webpack-starter) - A starter template for those who want to use the famous JavaScript 3D game engine Babylon.js with TypeScript and Webpack.
 - [babylonjs-webpack-es6](https://github.com/RaananW/babylonjs-webpack-es6) - Babylon.js basic scene with typescript, webpack, es6 modules, editorconfig, eslint, hot loading and more. Will even make coffee if you ask nicely.
 - [babylonjs-webxr-template](https://github.com/yuiseki/babylonjs-webxr-template) - Babylon.js + TypeScript WebXR template project. (<https://yuiseki.github.io/babylonjs-webxr-template/>)
@@ -295,7 +295,7 @@ _Open source projects using Babylon.js_
 - [Molvwr](https://github.com/gleborgne/molvwr) - WebGL molecule viewer made with Babylon.js (<https://gleborgne.github.io/molvwr/>)
 - [Multiplayer Babylon JS "Game" with Client & Server-Side Physics Engine](https://github.com/j-o-d-o/multiplayer-babylon-js-game) - Multiplayer Babylon.js game with server and client-side physics engine synchronization. (<http://185.82.21.82:8700/>)
 - [Multiplayer FPS-Game](https://github.com/j-o-d-o/FPS-Game) - A Multiplayer FPS built with Babylon.js (<http://185.82.21.82/FPS-Game/public/>)
-- [nengi + Babylon 3D shooter template](https://github.com/timetocode/nengi-babylon-3d-shooter) - A template game for multiplayer 3D shooters made in Babylon.js + nengi.js
+- [nengi + Babylon 3D shooter template](https://github.com/timetocode/nengi-babylon-3d-shooter) - A template game for multiplayer 3D shooters made in Babylon.js + nengi.js with client-side prediction and lag compensation.
 - [OceanDemo](https://github.com/Popov72/OceanDemo) - Ocean demo in WebGPU with Babylon.js (<https://popov72.github.io/OceanDemo/dist/index.html>)
 - [Oculus Quest Remote Desktop](https://github.com/shinyoshiaki/oculus-quest-remote-desktop) - Remote desktop for Oculus Quest. Using Babylon.js, React and WebRTC. (<https://shinyoshiaki.github.io/oculus-quest-remote-desktop/build/>)
 - [Playlist Browser XR](https://github.com/Symbitic/PlaylistBrowserXR) - Browse Spotify playlists in Virtual Reality. (<https://www.playlistbrowserxr.xyz/>)
