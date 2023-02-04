@@ -271,7 +271,6 @@ _Open source projects using Babylon.js_
 - [BabylonJS-Doom-Clone](https://github.com/Symbitic/BabylonJS-Doom-Clone) - Doom style game crafted with love using BabylonJS. (<https://symbitic.github.io/BabylonJS-Doom-Clone/>)
 - [BabylonJSFirstSteps](https://github.com/topheman/BabylonJSFirstSteps) - You will find here my first steps on Babylon.js (<http://labs.topheman.com/babylonjs/cone-example.html>)
 - [Babylon.js "magic" piano portal](https://github.com/docEdub/babylonjs-ar-piano-portal) - An augmented-reality WebXR animation of Chopin's "Winter Wind" Étude to hang on your wall! Works on flat-screen, too. See it live at <https://demos.babylonjs.com/piano-portal/>.
-- [babylonjs-oculus-quest-controller-input](https://github.com/flushpot1125/babylonjs-oculus-quest-controller-input) - How to take controller input.
 - [BabylonJS Typescript Logic Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) - A collection of small projects that show possible ways of handling game logic with BabylonJS.
 - [babylonjs-typescript-webpack-starter](https://github.com/pandadelphin/babylonjs-typescript-webpack-starter) - A starter template for those who want to use the famous JavaScript 3D game engine Babylon.js with TypeScript and Webpack.
 - [babylonjs-webpack-es6](https://github.com/RaananW/babylonjs-webpack-es6) - Babylon.js basic scene with typescript, webpack, es6 modules, editorconfig, eslint, hot loading and more. Will even make coffee if you ask nicely.
