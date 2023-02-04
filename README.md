@@ -263,7 +263,7 @@ _Open source games built with Babylon.js_
 
 _Open source projects using Babylon.js_
 
-- [3D Tetris](https://github.com/annamjo/3DTetrisBabylon) - 3D Tetris using the Babylon.js engine.
+- [3D Tetris](https://github.com/Symbitic/3DTetrisBabylon) - 3D Tetris using the Babylon.js engine. (<https://symbitic.github.io/3DTetrisBabylon/>)
 - [BABYDOOM](https://github.com/Arc0re/arc0re.github.io) - Doom clone using the JavaScript Babylon.js engine. (<https://arc0re.github.io/>)
 - [babylon-demo](https://github.com/SvenFrankson/babylon-demo) - Babylon.js demo for academic purposes. (<https://svenfrankson.github.io/BabylonDemoWeb/index.html>)
 - [BabylonFpsDemo](https://github.com/renjianfeng/BabylonFpsDemo) - A first person shooter with BabylonJS. (<https://renjianfeng.github.io/BabylonFpsDemo/example/index.html>)
