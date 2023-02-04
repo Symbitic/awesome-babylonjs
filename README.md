@@ -263,12 +263,12 @@ _Open source games built with Babylon.js_
 
 _Open source projects using Babylon.js_
 
-- [3D Tetris](https://github.com/annamjo/3DTetrisBabylon) - 3D Tetris created with Babylon.js
+- [3D Tetris](https://github.com/annamjo/3DTetrisBabylon) - 3D Tetris using the Babylon.js engine.
 - [BABYDOOM](https://github.com/Arc0re/arc0re.github.io) - Doom clone using the JavaScript Babylon.js engine. (<https://arc0re.github.io/>)
 - [babylon-demo](https://github.com/SvenFrankson/babylon-demo) - Babylon.js demo for academic purposes. (<https://svenfrankson.github.io/BabylonDemoWeb/index.html>)
-- [BabylonFpsDemo](https://github.com/renjianfeng/BabylonFpsDemo) - A first person shooter with BabylonJS.
+- [BabylonFpsDemo](https://github.com/renjianfeng/BabylonFpsDemo) - A first person shooter with BabylonJS. (<https://renjianfeng.github.io/BabylonFpsDemo/example/index.html>)
 - [BabylonJS-CharacterController](https://github.com/ssatguru/BabylonJS-CharacterController) - A CharacterController for Babylon.js (<https://ssatguru.github.io/BabylonJS-CharacterController-Samples/demo/>)
-- [BabylonJS-Doom-Clone](https://github.com/CelesteComet/BabylonJS-Doom-Clone) - Doom style game crafted with love using Babylon.js
+- [BabylonJS-Doom-Clone](https://github.com/Symbitic/BabylonJS-Doom-Clone) - Doom style game crafted with love using BabylonJS. (<https://symbitic.github.io/BabylonJS-Doom-Clone/>)
 - [BabylonJSFirstSteps](https://github.com/topheman/BabylonJSFirstSteps) - You will find here my first steps on Babylon.js (<http://labs.topheman.com/babylonjs/cone-example.html>)
 - [Babylon.js "magic" piano portal](https://github.com/docEdub/babylonjs-ar-piano-portal) - An augmented-reality WebXR animation of Chopin's "Winter Wind" Étude to hang on your wall! Works on flat-screen, too. See it live at <https://demos.babylonjs.com/piano-portal/>.
 - [babylonjs-oculus-quest-controller-input](https://github.com/flushpot1125/babylonjs-oculus-quest-controller-input) - How to take controller input.
@@ -279,19 +279,19 @@ _Open source projects using Babylon.js_
 - [babylon-mtoon-material](https://github.com/virtual-cast/babylon-mtoon-material) - Unity MToon Shader WebGL porting to Babylon.js. (<https://virtual-cast.github.io/babylon-mtoon-material/>)
 - [Babylon PostEffect Designer](https://github.com/HarveyLijh/Babylon_PostEffect_Designer_JL) - Full control of post effects adjustments in Babylon.js. Support real-time post effect adjustments, mesh import, and post effect data sharing. (<https://harveylijh.github.io/Babylon_PostEffect_Designer_JL/>)
 - [babylon_ragdoll_robi](https://github.com/Takebon/babylon_ragdoll_robi) - Babylon.js ragdoll robot. (<https://ragdoll-robi.web.app/>)
-- [babylon-steering](https://github.com/LorenzoCorbella74/babylon-steering) - Steering behaviors library for Babylon.js
+- [babylon-steering](https://github.com/LorenzoCorbella74/babylon-steering) - Steering behaviors library for Babylon.js for moving entities in the x/z plane.
 - [Bomberman 3D](https://github.com/adisoftbn/Bomberman3D) - Experimental game dev with Babylon.js and Angular 5. (<https://adisoftbn.github.io/Bomberman3D/>)
 - [cannon-es-debugger-babylonjs](https://github.com/neu5/cannon-es-debugger-babylonjs) - This is a debugger for use with cannon-es and BabylonJS. (<https://neu5.github.io/cannon-es-debugger-babylonjs/>)
 - [Christmas runner](https://github.com/Temechon/Christmas-runner) - A Babylon.js game made for Christmas. (<http://pixelcodr.com/games/christmasRunner/>)
-- [ecsy-babylon](https://github.com/kaliber5/ecsy-babylon) - Experimental implementation of ECSY for Babylon.js
+- [ecsy-babylon](https://github.com/kaliber5/ecsy-babylon) - Experimental Babylon.js implementation of ECSY.
 - [Epic Guide](https://github.com/Temechon/Babylon.js-FPS) - A game about going for a walk in a friendly world :) (<http://pixelcodr.com/games/babylonjs-fps/>)
 - [fps-babylon-js](https://github.com/Raigyo/fps-babylon-js) - Online Multiplayer First Person Shooter with Babylon.js & SocketIO. (<https://babylon-fps-online.herokuapp.com/>)
 - [HTML5 FPS](https://github.com/csarkosh/html5-fps) - Demo of an HTML5 first-person rig built on Babylon.js and React. (<https://fps.csarko.sh/>)
-- [Kicker](https://github.com/Temechon/kicker) - A soccer ball game made for Babylon.js February Challenge. - (<http://pixelcodr.com/games/kicker/>)
+- [Kicker](https://github.com/Temechon/kicker) - A soccer ball game made for Babylon.js February Challenge. (<http://pixelcodr.com/games/kicker/>)
 - [KZ Climbing](https://github.com/BabylonJSGames/BabylonJS-Platformer-Game-Prototype) - A 3D platformer browser game prototype made with the Babylon.js framework written in TypeScript. (<https://kzclimbing.netlify.app/client/public/>)
 - [Molvwr](https://github.com/gleborgne/molvwr) - WebGL molecule viewer made with Babylon.js (<https://gleborgne.github.io/molvwr/>)
-- [Multiplayer Babylon JS "Game" with Client & Server-Side Physics Engine](https://github.com/j-o-d-o/multiplayer-babylon-js-game) - Multiplayer Babylon.js game with server and client-side physics engine synchronization. (<http://185.82.21.82:8700/>)
-- [Multiplayer FPS-Game](https://github.com/j-o-d-o/FPS-Game) - A Multiplayer FPS built with Babylon.js (<http://185.82.21.82/FPS-Game/public/>)
+- [Multiplayer Babylon JS "Game" with Client & Server-Side Physics Engine](https://github.com/aeon0/multiplayer-babylon-js-game) - Multiplayer Babylon.js game with server and client-side physics engine synchronization. (<http://185.82.21.82:8700/>)
+- [Multiplayer FPS-Game](https://github.com/aeon0/FPS-Game) - A Multiplayer FPS built with Babylon.js (<http://185.82.21.82/FPS-Game/public/>)
 - [nengi + Babylon 3D shooter template](https://github.com/timetocode/nengi-babylon-3d-shooter) - A template game for multiplayer 3D shooters made in Babylon.js + nengi.js with client-side prediction and lag compensation.
 - [OceanDemo](https://github.com/Popov72/OceanDemo) - Ocean demo in WebGPU with Babylon.js (<https://popov72.github.io/OceanDemo/dist/index.html>)
 - [Oculus Quest Remote Desktop](https://github.com/shinyoshiaki/oculus-quest-remote-desktop) - Remote desktop for Oculus Quest. Using Babylon.js, React and WebRTC. (<https://shinyoshiaki.github.io/oculus-quest-remote-desktop/build/>)
@@ -308,7 +308,6 @@ _Open source projects using Babylon.js_
 - [WebXR Depth Testbed Babylon.js](https://github.com/drumath2237/webxr-depth-testbed-babylon) - testbed for WebXR Depth Feature. (<https://drumath2237.github.io/webxr-depth-testbed-babylon/>)
 - [WebXR Measuring Tape](https://github.com/Narendra-Kamath/webxr-measuring-tape) - :zap: An Augmented Reality real-world length measuring web application built by the modification of the example being provided by babylonjs - concept of using WebXR HitTarget feature. (<https://narendra-kamath.github.io/webxr-measuring-tape/>)
 - [yuka-babylonjs-examples](https://github.com/eldinor/yuka-babylonjs-examples) - Yuka Game AI + 3D rendering with Babylon.js (<https://yuka.babylonpress.org/>)
-- [yuka-babylonjs-ts-starter](https://github.com/eldinor/yuka-babylonjs-ts-starter) - Yuka Game AI + Babylon.js Typescript Starter.
 
 ## Examples
 
