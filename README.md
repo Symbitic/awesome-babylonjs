@@ -60,112 +60,112 @@ _Books about or for Babylon.js developers._
 
 _Noteworthy examples of community-contributed content on the Babylon.js playground._
 
-- 360 portal - <https://playground.babylonjs.com/#58I88I#186>
-- 3D UI - <https://playground.babylonjs.com/#947JF6#0>
-- Ammo.js Heightmap - <https://playground.babylonjs.com/#8T3YBR#2>
-- Antigravity racing game demo - <https://playground.babylonjs.com/#WVPVWL>
-- Augmented Reality Drum - <https://playground.babylonjs.com/#VXA85M#5>
-- Basic Swimming Fish - <https://playground.babylonjs.com/#9CMU0F>
-- Basketball - <https://playground.babylonjs.com/#AL6VAN#1>
-- Bowling and grabbing in XR - <https://playground.babylonjs.com/#KBS9I5#925>
-- Bowling - <https://playground.babylonjs.com/#6QYHV7#29>
-- Bowling lane - <https://playground.babylonjs.com/#7S3ZHU#15>
-- Buttons always face user - <https://playground.babylonjs.com/#CUH660#27>
-- Camera positioning on event - <https://playground.babylonjs.com/#0PHDVB#0>
-- Captain Dude Fishing - <https://playground.babylonjs.com/#1YD970#283>
-- Car following path - <https://playground.babylonjs.com/#1YD970#14>
-- Change color on collide - <https://playground.babylonjs.com/#502Z8L#0>
-- Chessboard Demo - <https://playground.babylonjs.com/#AH85PF#53>
-- Circle menu - <https://playground.babylonjs.com/#092XX3#13>
-- Collectible health packs - <https://playground.babylonjs.com/#U8MEB0#114>
-- Colliding and deforming cubes - <https://playground.babylonjs.com/#RGNDK2#2>
-- Coronavirus - <https://playground.babylonjs.com/#3FJZD5#4>
-- Custom button mesh - <https://playground.babylonjs.com/#D7LQDZ#1>
-- Custom WebXR controller mesh - <https://playground.babylonjs.com/#355XBJ#16>
-- Dock the boat - <https://playground.babylonjs.com/#5MJ1X9#13>
-- Dynamic snow demo - <https://playground.babylonjs.com/#5ZCGRM#2860>
-- Dynamic text in UI - <https://playground.babylonjs.com/#9U086#4>
-- Exploding Lofi Sphere - <https://playground.babylonjs.com/#HDHQN#55>
-- Exploding Lofi Torus - <https://playground.babylonjs.com/#HDHQN>
-- Exploding Object with Solid Particles - <https://playground.babylonjs.com/#CWAQ1W#12>
-- Explosion on keydown - <https://playground.babylonjs.com/#VS5XS7#0>
-- Explosions + City burning - <https://playground.babylonjs.com/#4HUQQ#1479>
-- Fenerator 3D with explosion - <https://playground.babylonjs.com/#RDJ26Q#1288>
-- Flight Simulator Experiment - <https://playground.babylonjs.com/#UL7W2M>
-- Fruit Ninja VR Game - <https://playground.babylonjs.com/#22KIIK#22>
-- Furball Shader - <https://playground.babylonjs.com/#LVJG7H>
-- Glowing marbles falling - <https://playground.babylonjs.com/#45FPFC#13>
-- Glow World - <https://playground.babylonjs.com/#6MQB2X#158>
-- Grab and move a ball in WebXR - <https://playground.babylonjs.com/#HY823G#7>
-- God of War NME Weapons FX Demo - <https://playground.babylonjs.com/#7XU4D8#1>
-- Great White Shark - <https://playground.babylonjs.com/#ISZ7Y2>
-- GUI follows viewpoint in WebXR - <https://playground.babylonjs.com/#HJZBRG#100>
-- Gun firing - <https://playground.babylonjs.com/#E8C51D#35>
-- Happy Holidays 2020 VR - <https://playground.babylonjs.com/#0IRV8X#2>
-- Happy holidays custom font - <https://playground.babylonjs.com/#BP7QYG#13>
-- HERO X - <https://playground.babylonjs.com/#A8X91Q#10>
-- Hit the cube - <https://playground.babylonjs.com/#0JC454#16>
-- Holographic keyboard - <https://playground.babylonjs.com/#LU3FLF#6>
-- Hopping game - <https://playground.babylonjs.com/#0IIB3N#44>
-- Joint Impulse Example - <https://playground.babylonjs.com/#UFVU18#18>
-- Laser Saber - <https://playground.babylonjs.com/#ZS41RU#0>
-- Lego Buggy Mesh - <https://playground.babylonjs.com/#K7TJIG>
-- Light Paddle - <https://playground.babylonjs.com/#6C8005#1>
-- Mallot and Nail VR - <https://playground.babylonjs.com/#IT1QZU#13>
-- Marble slide - <https://playground.babylonjs.com/#YRP925>
-- Marble Tower - <https://playground.babylonjs.com/#3I55DK#0>
-- Mesh Speech Synthesis API - <https://playground.babylonjs.com/#NE96B8#10>
-- Music Visualizer - <https://playground.babylonjs.com/#MNC4HP>
-- Newton cradle - <https://playground.babylonjs.com/#8WC6ZN#112>
-- Open url by clicking object - <https://playground.babylonjs.com/#11XV5X#13>
-- Pac-Man Arcade Machine in WebXR - <https://playground.babylonjs.com/#4WPJCV#34>
-- physicsImposter parenting - <https://playground.babylonjs.com/#ZENDZ2#0>
-- Ping pong in 3D - <https://playground.babylonjs.com/#RYXIT#9>
-- Point Cloud Morphing - <https://playground.babylonjs.com/#2S8L5U#1>
-- portal + gravity mechanics - <https://playground.babylonjs.com/#ZU8CV4#12>
-- Portal - <https://playground.babylonjs.com/#ACPMQL#2>
-- Progressive loading of glTF with LOD - <https://playground.babylonjs.com/#ARN6TJ#5>
-- Pulsars / Imps - <https://playground.babylonjs.com/#1ND6TH#265>
-- Rollercoaster - <https://playground.babylonjs.com/#1HH4OJ#29>
-- Screen Capture and Composition - <https://playground.babylonjs.com/#RBX8Y4#22>
-- Shattered mesh with baked physics demo - <https://playground.babylonjs.com/#1BGGDU>
-- Simple XmlLoader GUI - <https://playground.babylonjs.com/#S0IW99#23>
-- Slice mesh - <https://playground.babylonjs.com/#B2DP5I#7>
-- Soft body physics - wrecking ball + blocks - <https://playground.babylonjs.com/#8WC6ZN#121>
-- Solid Particle System collisions - <https://playground.babylonjs.com/#10RCC9>
-- Space Invader - <https://playground.babylonjs.com/#JXJBPS#5>
-- Space Ship Battle - <https://playground.babylonjs.com/#G03CV5#0>
-- Spheres change color only when looked at - <https://playground.babylonjs.com/#0MGV2I#0>
-- Sphere Spiral - <https://playground.babylonjs.com/#ND4U2L>
-- SPS change color on click - <https://playground.babylonjs.com/#2FPT1A#351>
-- StakeShooter - <https://playground.babylonjs.com/#Z88Q4W#19>
-- Submarine - <https://playground.babylonjs.com/#165IV6#2526>
-- Table billards - <https://playground.babylonjs.com/#1DDSV5>
-- Tank playground with sound - <https://playground.babylonjs.com/#52M011#2>
-- Tap to Bounce - <https://playground.babylonjs.com/#88MM6V#0>
-- Targeting System - <https://playground.babylonjs.com/#CMS27E#11>
-- TensorFlow.js + Webcam Demo - <https://playground.babylonjs.com/#H19VH7#44>
-- TestTowerDef2 - <https://playground.babylonjs.com/#XP6NNP#42>
-- The Pirate Fort - <https://playground.babylonjs.com/#C21DGD#3>
-- Tic-Tac-Toe - <https://playground.babylonjs.com/#2WR12Z#2>
-- Track with Carriage Following It (First Person) - <https://playground.babylonjs.com/#SQFG0Q#6>
-- Track with Carriage Following It (Third Person) - <https://playground.babylonjs.com/#SQFG0Q#5>
-- Trailing mesh - <https://playground.babylonjs.com/#Z07JE1#2>
-- Under Water Demo - <https://playground.babylonjs.com/#LPTLZM>
-- Velocity test on soccer balls - <https://playground.babylonjs.com/#5W4GH1#10>
-- Virtual Joystick GUI - <https://playground.babylonjs.com/#C6V6UY#49>
-- Virtual Tour Booth - <https://playground.babylonjs.com/#1JDJ9F#9>
-- VR Rythym Game - <https://playground.babylonjs.com/#9M1I08#7>
-- Watch out for swords - <https://playground.babylonjs.com/#ZD364L#17>
-- Water Refraction with RTT - <https://playground.babylonjs.com/#7ILX7T>
-- Wave Racer - <https://playground.babylonjs.com/#WBEEFF#1>
-- WebXR Catching Game - <https://playground.babylonjs.com/#PKQ6JV#3>
-- WebXR Physics playground - <https://playground.babylonjs.com/#B922X8#19>
-- WebXR Tennis game - <https://playground.babylonjs.com/#CHF3KW#108>
-- XR Goal Keeper Trainer: <https://playground.babylonjs.com/#PPM311#99>
-- XR Throw Lab - <https://playground.babylonjs.com/#K1WGX0#36>
-- Yellow sphere volumetric light mini-game - <https://playground.babylonjs.com/#LYCSQ#256>
-- Yoshi Falling Balls - <https://playground.babylonjs.com/#73TUXW#0>
+- [360 portal](https://playground.babylonjs.com/#58I88I#186)
+- [3D UI](https://playground.babylonjs.com/#947JF6#0)
+- [Ammo.js Heightmap](https://playground.babylonjs.com/#8T3YBR#2)
+- [Antigravity racing game demo](https://playground.babylonjs.com/#WVPVWL)
+- [Augmented Reality Drum](https://playground.babylonjs.com/#VXA85M#5)
+- [Basic Swimming Fish](https://playground.babylonjs.com/#9CMU0F)
+- [Basketball](https://playground.babylonjs.com/#AL6VAN#1)
+- [Bowling and grabbing in XR](https://playground.babylonjs.com/#KBS9I5#925)
+- [Bowling](https://playground.babylonjs.com/#6QYHV7#29)
+- [Bowling lane](https://playground.babylonjs.com/#7S3ZHU#15)
+- [Buttons always face user](https://playground.babylonjs.com/#CUH660#27)
+- [Camera positioning on event](https://playground.babylonjs.com/#0PHDVB#0)
+- [Captain Dude Fishing](https://playground.babylonjs.com/#1YD970#283)
+- [Car following path](https://playground.babylonjs.com/#1YD970#14)
+- [Change color on collide](https://playground.babylonjs.com/#502Z8L#0)
+- [Chessboard Demo](https://playground.babylonjs.com/#AH85PF#53)
+- [Circle menu](https://playground.babylonjs.com/#092XX3#13)
+- [Collectible health packs](https://playground.babylonjs.com/#U8MEB0#114)
+- [Colliding and deforming cubes](https://playground.babylonjs.com/#RGNDK2#2)
+- [Coronavirus](https://playground.babylonjs.com/#3FJZD5#4)
+- [Custom button mesh](https://playground.babylonjs.com/#D7LQDZ#1)
+- [Custom WebXR controller mesh](https://playground.babylonjs.com/#355XBJ#16)
+- [Dock the boat](https://playground.babylonjs.com/#5MJ1X9#13)
+- [Dynamic snow demo](https://playground.babylonjs.com/#5ZCGRM#2860)
+- [Dynamic text in UI](https://playground.babylonjs.com/#9U086#4)
+- [Exploding Lofi Sphere](https://playground.babylonjs.com/#HDHQN#55)
+- [Exploding Lofi Torus](https://playground.babylonjs.com/#HDHQN)
+- [Exploding Object with Solid Particles](https://playground.babylonjs.com/#CWAQ1W#12)
+- [Explosion on keydown](https://playground.babylonjs.com/#VS5XS7#0)
+- [Explosions + City burning](https://playground.babylonjs.com/#4HUQQ#1479)
+- [Fenerator 3D with explosion](https://playground.babylonjs.com/#RDJ26Q#1288)
+- [Flight Simulator Experiment](https://playground.babylonjs.com/#UL7W2M)
+- [Fruit Ninja VR Game](https://playground.babylonjs.com/#22KIIK#22)
+- [Furball Shader](https://playground.babylonjs.com/#LVJG7H)
+- [Glowing marbles falling](https://playground.babylonjs.com/#45FPFC#13)
+- [Glow World](https://playground.babylonjs.com/#6MQB2X#158)
+- [Grab and move a ball in WebXR](https://playground.babylonjs.com/#HY823G#7)
+- [God of War NME Weapons FX Demo](https://playground.babylonjs.com/#7XU4D8#1)
+- [Great White Shark](https://playground.babylonjs.com/#ISZ7Y2)
+- [GUI follows viewpoint in WebXR](https://playground.babylonjs.com/#HJZBRG#100)
+- [Gun firing](https://playground.babylonjs.com/#E8C51D#35)
+- [Happy Holidays 2020 VR](https://playground.babylonjs.com/#0IRV8X#2)
+- [Happy holidays custom font](https://playground.babylonjs.com/#BP7QYG#13)
+- [HERO X](https://playground.babylonjs.com/#A8X91Q#10)
+- [Hit the cube](https://playground.babylonjs.com/#0JC454#16)
+- [Holographic keyboard](https://playground.babylonjs.com/#LU3FLF#6)
+- [Hopping game](https://playground.babylonjs.com/#0IIB3N#44)
+- [Joint Impulse Example](https://playground.babylonjs.com/#UFVU18#18)
+- [Laser Saber](https://playground.babylonjs.com/#ZS41RU#0)
+- [Lego Buggy Mesh](https://playground.babylonjs.com/#K7TJIG)
+- [Light Paddle](https://playground.babylonjs.com/#6C8005#1)
+- [Mallot and Nail VR](https://playground.babylonjs.com/#IT1QZU#13)
+- [Marble slide](https://playground.babylonjs.com/#YRP925)
+- [Marble Tower](https://playground.babylonjs.com/#3I55DK#0)
+- [Mesh Speech Synthesis API](https://playground.babylonjs.com/#NE96B8#10)
+- [Music Visualizer](https://playground.babylonjs.com/#MNC4HP)
+- [Newton cradle](https://playground.babylonjs.com/#8WC6ZN#112)
+- [Open url by clicking object](https://playground.babylonjs.com/#11XV5X#13)
+- [Pac-Man Arcade Machine in WebXR](https://playground.babylonjs.com/#4WPJCV#34)
+- [physicsImposter parenting](https://playground.babylonjs.com/#ZENDZ2#0)
+- [Ping pong in 3D](https://playground.babylonjs.com/#RYXIT#9)
+- [Point Cloud Morphing](https://playground.babylonjs.com/#2S8L5U#1)
+- [portal + gravity mechanics](https://playground.babylonjs.com/#ZU8CV4#12)
+- [Portal](https://playground.babylonjs.com/#ACPMQL#2)
+- [Progressive loading of glTF with LOD](https://playground.babylonjs.com/#ARN6TJ#5)
+- [Pulsars / Imps](https://playground.babylonjs.com/#1ND6TH#265)
+- [Rollercoaster](https://playground.babylonjs.com/#1HH4OJ#29)
+- [Screen Capture and Composition](https://playground.babylonjs.com/#RBX8Y4#22)
+- [Shattered mesh with baked physics demo](https://playground.babylonjs.com/#1BGGDU)
+- [Simple XmlLoader GUI](https://playground.babylonjs.com/#S0IW99#23)
+- [Slice mesh](https://playground.babylonjs.com/#B2DP5I#7)
+- [Soft body physics - wrecking ball + blocks](https://playground.babylonjs.com/#8WC6ZN#121)
+- [Solid Particle System collisions](https://playground.babylonjs.com/#10RCC9)
+- [Space Invader](https://playground.babylonjs.com/#JXJBPS#5)
+- [Space Ship Battle](https://playground.babylonjs.com/#G03CV5#0)
+- [Spheres change color only when looked at](https://playground.babylonjs.com/#0MGV2I#0)
+- [Sphere Spiral](https://playground.babylonjs.com/#ND4U2L)
+- [SPS change color on click](https://playground.babylonjs.com/#2FPT1A#351)
+- [StakeShooter](https://playground.babylonjs.com/#Z88Q4W#19)
+- [Submarine](https://playground.babylonjs.com/#165IV6#2526)
+- [Table billards](https://playground.babylonjs.com/#1DDSV5)
+- [Tank playground with sound](https://playground.babylonjs.com/#52M011#2)
+- [Tap to Bounce](https://playground.babylonjs.com/#88MM6V#0)
+- [Targeting System](https://playground.babylonjs.com/#CMS27E#11)
+- [TensorFlow.js + Webcam Demo](https://playground.babylonjs.com/#H19VH7#44)
+- [TestTowerDef2](https://playground.babylonjs.com/#XP6NNP#42)
+- [The Pirate Fort](https://playground.babylonjs.com/#C21DGD#3)
+- [Tic-Tac-Toe](https://playground.babylonjs.com/#2WR12Z#2)
+- [Track with Carriage Following It (First Person)](https://playground.babylonjs.com/#SQFG0Q#6)
+- [Track with Carriage Following It (Third Person)](https://playground.babylonjs.com/#SQFG0Q#5)
+- [Trailing mesh](https://playground.babylonjs.com/#Z07JE1#2)
+- [Under Water Demo](https://playground.babylonjs.com/#LPTLZM)
+- [Velocity test on soccer balls](https://playground.babylonjs.com/#5W4GH1#10)
+- [Virtual Joystick GUI](https://playground.babylonjs.com/#C6V6UY#49)
+- [Virtual Tour Booth](https://playground.babylonjs.com/#1JDJ9F#9)
+- [VR Rythym Game](https://playground.babylonjs.com/#9M1I08#7)
+- [Watch out for swords](https://playground.babylonjs.com/#ZD364L#17)
+- [Water Refraction with RTT](https://playground.babylonjs.com/#7ILX7T)
+- [Wave Racer](https://playground.babylonjs.com/#WBEEFF#1)
+- [WebXR Catching Game](https://playground.babylonjs.com/#PKQ6JV#3)
+- [WebXR Physics playground](https://playground.babylonjs.com/#B922X8#19)
+- [WebXR Tennis game](https://playground.babylonjs.com/#CHF3KW#108)
+- [XR Goal Keeper Trainer](https://playground.babylonjs.com/#PPM311#99)
+- [XR Throw Lab](https://playground.babylonjs.com/#K1WGX0#36)
+- [Yellow sphere volumetric light mini-game](https://playground.babylonjs.com/#LYCSQ#256)
+- [Yoshi Falling Balls](https://playground.babylonjs.com/#73TUXW#0)
 
 ## Demos
 
