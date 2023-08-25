@@ -244,7 +244,7 @@ _Open source games built with Babylon.js_
 - [Block](https://github.com/Temechon/block) - A puzzle game made with Babylon.js [[demo](http://pixelcodr.com/games/block/game.html)]
 - [Cube Endless Runner](https://github.com/TiagoSilvaPereira/endless-runner-3d) - Cube Endless Runner is a 3D game built with BabylonJS engine on top of WebGL and HTML5 technologies. [[demo](https://cube-endless-runner.herokuapp.com/)]
 - [Defend](https://github.com/xtreemze/defend) - Procedural Cross-Platform 3D Tower Defense Web Game with Physics and AI and Procedural Sound. [[demo](https://xtreemze.github.io/defend/)]
-- [F18 Fighter Simulation](https://github.com/renjianfeng/F18FlightSimulator-ammojs) - Simulation driving of F18 Fighter Based on babylonjs + ammojs. [[demo](https://renjianfeng.github.io/F18FlightSimulator-ammojs/dist/index.html)]
+- [F18 Fighter Simulation](https://github.com/renjianfeng/F18FlightSimulator-ammojs) - Simulation driving of F18 Fighter. Based on babylonjs + ammojs. [[demo](https://renjianfeng.github.io/F18FlightSimulator-ammojs/dist/index.html)]
 - [Hide and Seek Demo](https://github.com/colyseus/babylonjs-hide-and-seek) - Multiplayer Hide-and-Seek made with BabylonJS and Colyseus. [[demo](https://docs.colyseus.io/colyseus/demo/babylonjs-editor/hide-and-seek/)]
 - [Light Speed Ready!](https://github.com/Xanmia/Light-Speed-Ready) - A spaceship game of gathering resources and leveling your ship. [[demo](https://www.kraem.com/Light-Speed-Ready/game.html)]
 - [NeoTrap](https://github.com/ionic-proton/NeoTrap) - Music-based game built with Babylon.js [[demo](https://omarxo.itch.io/neotrap)]
@@ -252,7 +252,7 @@ _Open source games built with Babylon.js_
 - [Roll A Ball](https://github.com/impomales/roll-a-ball) - 3D Game to illustrate getting started with the BabylonJS game engine. [[demo](https://roll-a-ball-babylon.herokuapp.com/)]
 - [Simple 3D FPS](https://github.com/TiagoSilvaPereira/simple-3d-fps) - A simple FPS game with BabylonJS engine following Clean Code principles. [[demo](https://simple-3d-fps-game.herokuapp.com/)]
 - [Space Invaders](https://github.com/johnpitchers/Space-Invaders) - Space Invaders in your browser with 3D WebGL. Built with BabylonJS. [[demo](https://spaceinvaders.viperfish.com.au/)]
-- [Summer's Festival](https://github.com/BabylonJS/SummerFestival) - Source code for game tutorial written by capucat [[demo](https://capucat.github.io/summers-festival/)]
+- [Summer's Festival](https://github.com/BabylonJS/SummerFestival) - Source code for the game tutorial written by capucat. [[demo](https://capucat.github.io/summers-festival/)]
 - [Theasis](https://github.com/ThanosRestas/Theasis) - FPS game using the BabylonJS framework. [[demo](https://thanosrestas.github.io/Theasis/dist/index.html)]
 - [VoxelSrv](https://github.com/VoxelSrv/voxelsrv) - Voxel browser game inspired by Minecraft. [[demo](http://voxelsrv-master.pb4.eu/)]
 
