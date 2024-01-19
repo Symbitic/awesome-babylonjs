@@ -94,6 +94,7 @@ _Noteworthy examples of community-contributed content on the Babylon.js playgrou
 - [Glowing marbles falling](https://playground.babylonjs.com/#45FPFC#13)
 - [Glow World](https://playground.babylonjs.com/#6MQB2X#158)
 - [Grab and move a ball in WebXR](https://playground.babylonjs.com/#HY823G#7)
+- [Grim Grinning Ghosts](https://playground.babylonjs.com/#GVPILZ)
 - [God of War NME Weapons FX Demo](https://playground.babylonjs.com/#7XU4D8#1)
 - [Great White Shark](https://playground.babylonjs.com/#ISZ7Y2)
 - [GUI follows viewpoint in WebXR](https://playground.babylonjs.com/#HJZBRG#100)
@@ -117,6 +118,8 @@ _Noteworthy examples of community-contributed content on the Babylon.js playgrou
 - [Open url by clicking object](https://playground.babylonjs.com/#11XV5X#13)
 - [Pac-Man Arcade Machine in WebXR](https://playground.babylonjs.com/#4WPJCV#34)
 - [physicsImposter parenting](https://playground.babylonjs.com/#ZENDZ2#0)
+- [PhysX kinematic dynamic bodies](https://playground.babylonjs.com/#SLPLFT#31)
+- [PhysX fluid rendering](https://playground.babylonjs.com/#SLPLFT#29)
 - [Ping pong in 3D](https://playground.babylonjs.com/#RYXIT#9)
 - [Point Cloud Morphing](https://playground.babylonjs.com/#2S8L5U#1)
 - [portal + gravity mechanics](https://playground.babylonjs.com/#ZU8CV4#12)
@@ -244,14 +247,15 @@ _Open source games built with Babylon.js_
 - [Block](https://github.com/Temechon/block) - A puzzle game made with Babylon.js [[demo](http://pixelcodr.com/games/block/game.html)]
 - [Cube Endless Runner](https://github.com/TiagoSilvaPereira/endless-runner-3d) - Cube Endless Runner is a 3D game built with BabylonJS engine on top of WebGL and HTML5 technologies. [[demo](https://cube-endless-runner.herokuapp.com/)]
 - [Defend](https://github.com/xtreemze/defend) - Procedural Cross-Platform 3D Tower Defense Web Game with Physics and AI and Procedural Sound. [[demo](https://xtreemze.github.io/defend/)]
-- [F18 Fighter Simulation](https://github.com/renjianfeng/F18FlightSimulator-ammojs) - Simulation driving of F18 Fighter. Based on babylonjs + ammojs. [[demo](https://renjianfeng.github.io/F18FlightSimulator-ammojs/dist/index.html)]
+- [F18 Fighter Simulation](https://github.com/renjianfeng/F18FlightSimulator-ammojs) - Simulation driving of F18 Fighter. [[demo](https://renjianfeng.github.io/F18FlightSimulator-ammojs/dist/index.html)]
 - [Hide and Seek Demo](https://github.com/colyseus/babylonjs-hide-and-seek) - Multiplayer Hide-and-Seek made with BabylonJS and Colyseus. [[demo](https://docs.colyseus.io/colyseus/demo/babylonjs-editor/hide-and-seek/)]
 - [Light Speed Ready!](https://github.com/Xanmia/Light-Speed-Ready) - A spaceship game of gathering resources and leveling your ship. [[demo](https://www.kraem.com/Light-Speed-Ready/game.html)]
 - [NeoTrap](https://github.com/ionic-proton/NeoTrap) - Music-based game built with Babylon.js [[demo](https://omarxo.itch.io/neotrap)]
 - [Raucous Running and Rampaging Robot Racer Rally (R6)](https://github.com/hrr8-hermes/hrr8-hermes) - A fast-paced many-explosion robot racer game. [[demo](https://r6redux.herokuapp.com/)]
 - [Roll A Ball](https://github.com/impomales/roll-a-ball) - 3D Game to illustrate getting started with the BabylonJS game engine. [[demo](https://roll-a-ball-babylon.herokuapp.com/)]
 - [Simple 3D FPS](https://github.com/TiagoSilvaPereira/simple-3d-fps) - A simple FPS game with BabylonJS engine following Clean Code principles. [[demo](https://simple-3d-fps-game.herokuapp.com/)]
-- [Space Invaders](https://github.com/johnpitchers/Space-Invaders) - Space Invaders in your browser with 3D WebGL. Built with BabylonJS. [[demo](https://spaceinvaders.viperfish.com.au/)]
+- [Space Invaders](https://github.com/johnpitchers/Space-Invaders) - Space Invaders in your browser with 3D WebGL. [[demo](https://spaceinvaders.viperfish.com.au/)]
+- [Space Pirates](https://github.com/BabylonJS/SpacePirates) - Shoot down pirates in space. [[demo](https://spacepirates.babylonjs.com/)]
 - [Summer's Festival](https://github.com/BabylonJS/SummerFestival) - Source code for the game tutorial written by capucat. [[demo](https://capucat.github.io/summers-festival/)]
 - [Theasis](https://github.com/ThanosRestas/Theasis) - FPS game using the BabylonJS framework. [[demo](https://thanosrestas.github.io/Theasis/dist/index.html)]
 - [VoxelSrv](https://github.com/VoxelSrv/voxelsrv) - Voxel browser game inspired by Minecraft. [[demo](http://voxelsrv-master.pb4.eu/)]
@@ -260,6 +264,7 @@ _Open source games built with Babylon.js_
 
 _Open source projects using Babylon.js_
 
+- [3D Creator](https://github.com/simonguest/3dcreator) - A prototype that shows how students (grades 7-12) can use block-based programming to create immersive 3D scenes. [[demo](https://simonguest.github.io/3dcreator/)]
 - [3D Tetris](https://github.com/Symbitic/3DTetrisBabylon) - 3D Tetris using the Babylon.js engine. [[demo](https://symbitic.github.io/3DTetrisBabylon/)]
 - [BABYDOOM](https://github.com/Arc0re/arc0re.github.io) - Doom clone using the JavaScript Babylon.js engine. [[demo](https://arc0re.github.io/)]
 - [babylon-demo](https://github.com/SvenFrankson/babylon-demo) - Babylon.js demo for academic purposes. [[demo](https://svenfrankson.github.io/BabylonDemoWeb/index.html)]
@@ -279,19 +284,22 @@ _Open source projects using Babylon.js_
 - [Bomberman 3D](https://github.com/adisoftbn/Bomberman3D) - Experimental game dev with Babylon.js and Angular 5. [[demo](https://adisoftbn.github.io/Bomberman3D/)]
 - [cannon-es-debugger-babylonjs](https://github.com/neu5/cannon-es-debugger-babylonjs) - This is a debugger for use with cannon-es and BabylonJS. [[demo](https://neu5.github.io/cannon-es-debugger-babylonjs/)]
 - [Christmas runner](https://github.com/Temechon/Christmas-runner) - A Babylon.js game made for Christmas. [[demo](http://pixelcodr.com/games/christmasRunner/)]
+- [Divine Voxel Engine](https://github.com/Divine-Star-Software/DivineVoxelEngine) - A truly multi-threaded JavaScript voxel game engine written in TypeScript.
 - [ecsy-babylon](https://github.com/kaliber5/ecsy-babylon) - Experimental Babylon.js implementation of ECSY.
 - [Epic Guide](https://github.com/Temechon/Babylon.js-FPS) - A game about going for a walk in a friendly world :) [[demo](http://pixelcodr.com/games/babylonjs-fps/)]
+- [facecap](https://github.com/imerso/facecap) - Mediapipe face capture. [[demo](https://imerso.github.io/babylon.js/facecap/)]
 - [fps-babylon-js](https://github.com/Raigyo/fps-babylon-js) - Online Multiplayer First Person Shooter with Babylon.js & SocketIO. [[demo](https://babylon-fps-online.herokuapp.com/)]
 - [HTML5 FPS](https://github.com/csarkosh/html5-fps) - Demo of an HTML5 first-person rig built on Babylon.js and React. [[demo](https://fps.csarko.sh/)]
 - [Kicker](https://github.com/Temechon/kicker) - A soccer ball game made for Babylon.js February Challenge. [[demo](http://pixelcodr.com/games/kicker/)]
 - [KZ Climbing](https://github.com/BabylonJSGames/BabylonJS-Platformer-Game-Prototype) - A 3D platformer browser game prototype made with the Babylon.js framework written in TypeScript. [[demo](https://kzclimbing.netlify.app/client/public/)]
 - [Molvwr](https://github.com/gleborgne/molvwr) - WebGL molecule viewer made with Babylon.js [[demo](https://gleborgne.github.io/molvwr/)]
 - [Multiplayer Babylon JS "Game" with Client & Server-Side Physics Engine](https://github.com/aeon0/multiplayer-babylon-js-game) - Multiplayer Babylon.js game with server and client-side physics engine synchronization. [[demo](http://185.82.21.82:8700/)]
-- [Multiplayer FPS-Game](https://github.com/aeon0/FPS-Game) - A Multiplayer FPS built with Babylon.js [[demo](http://185.82.21.82/FPS-Game/public/)]
+- [Multiplayer FPS-Game](https://github.com/aeon0/FPS-Game) - A Multiplayer FPS. [[demo](http://185.82.21.82/FPS-Game/public/)]
 - [nengi + Babylon 3D shooter template](https://github.com/timetocode/nengi-babylon-3d-shooter) - A template game for multiplayer 3D shooters made in Babylon.js + nengi.js with client-side prediction and lag compensation.
-- [OceanDemo](https://github.com/Popov72/OceanDemo) - Ocean demo in WebGPU with Babylon.js [[demo](https://popov72.github.io/OceanDemo/dist/index.html)]
-- [Oculus Quest Remote Desktop](https://github.com/shinyoshiaki/oculus-quest-remote-desktop) - Remote desktop for Oculus Quest. Using Babylon.js, React and WebRTC. [[demo](https://shinyoshiaki.github.io/oculus-quest-remote-desktop/build/)]
+- [OceanDemo](https://github.com/Popov72/OceanDemo) - Ocean demo in WebGPU. [[demo](https://popov72.github.io/OceanDemo/dist/index.html)]
+- [Oculus Quest Remote Desktop](https://github.com/shinyoshiaki/oculus-quest-remote-desktop) - Remote desktop for Oculus Quest. [[demo](https://shinyoshiaki.github.io/oculus-quest-remote-desktop/build/)]
 - [Playlist Browser XR](https://github.com/Symbitic/PlaylistBrowserXR) - Browse Spotify playlists in Virtual Reality. [[demo](https://www.playlistbrowserxr.xyz/)]
+- [Pokeball Workshop](https://gitlab.com/side_project/pokeball-workshop) - Items from the classic series. [[demo](https://side_project.gitlab.io/pokeball-workshop/)]
 - [react-babylonjs](https://github.com/brianzinn/react-babylonjs) - React for Babylon.js [[demo](https://brianzinn.github.io/react-babylonjs/)]
 - [react-babylon-spring](https://github.com/hookex/react-babylon-spring) - Build spring-physics based 3D animation with the power of react-babylonjs and react-spring. [[demo](https://hooke.life/react-babylon-spring/)]
 - [Roblox meets film noir](https://github.com/TomWHall/babylon-js-platformer) - A 3D platform game demo using Babylon.js and React. [[demo](https://tomwhall.github.io/babylon-js-platformer/)]
@@ -326,6 +334,8 @@ _Demos of Babylon.js on the web._
 
 _Information by developers, for developers._
 
+- [80 Level interview](https://80.lv/articles/babylon-js-a-web-first-game-engine-powering-cross-platform-experiences/) - Babylon.js's Jason Carter elaborated on the tools and features available for developers.
+- [Accessibility Scene Tree for Screen Readers](https://doc.babylonjs.com/toolsAndResources/accessibility/screenReaders) - How to add screen reader support to 3D objects.
 - [Babylon JS Day 10: Terrarium](https://radicalappdev.com/2021/03/12/babylon-js-day-10-terrarium/) - Final in a series of lessons that explains how to use `assetsManager`.
 - [Babylon JS Day 19: Golf Club](https://radicalappdev.com/2021/03/25/babylon-js-day-19/) - Shows how to leverage `AssetsManager` to load a custom model as a VR controller.
 - [Babylon Native in a Headless Environment](https://babylonjs.medium.com/babylon-native-in-a-headless-environment-868409b8b1cf) - A guide to some of the internals of the new Babylon Native engine.
@@ -333,10 +343,12 @@ _Information by developers, for developers._
 - [Building the Web-Based 3d Digital Experience for the Mayflower Autonomous Ship](https://joepavitt.medium.com/building-the-web-based-3d-digital-experience-for-the-mayflower-autonomous-ship-a56f08e6558) - A behind-the-scenes look at a production-quality Babylon.js project.
 - [Canvas Accessibility and GUI Animations with Babylon.js](https://babylonjs.medium.com/canvas-accessibility-and-gui-animations-with-babylon-js-8001378a1509) - The Babylon.js team introduces two interesting new features in Babylon.js 5: GUI Animations and the Accessibility Twin Renderer.
 - [Challenges of a web VR throwing game - DEV Community](https://dev.to/wilcoschoneveld/challenges-of-a-web-vr-throwing-game-1c66) - Developer Wilco Schoneveld shares his experiences developing a VR game using a Quest 2, including the source code.
+- [Figma to BabylonJS](https://doc.babylonjs.com/communityExtensions/figmaToBabylonJS) - Figma plugin that allows you to export Figma designs to BabylonJS GUI .json files.
 - [Frame at Microsoft Build: Speaking the World Into Existence](https://learn.framevr.io/post/msbuild2022) - FrameVR explains their web-based metaverse platform they demoed at Microsoft Build.
 - [Getting cross-platform rendering with Babylon Native and GLFW](https://babylonjs.medium.com/getting-cross-platform-rendering-with-babylon-native-and-glfw-e0f1422f4d74) - A guide to the low-level rendering architecture using in Babylon Native.
 - [How to Setup Babylon + Next.js Production Build Optimized for SEO & Speed](https://3designer.app/best/babylon-nextjs-setup) - 3Designer explains how to use Next.js to improve any Babylon.js project with faster loading and search engine visibility.
 - [How we published a new Babylon.js recipe book Vol. 1](https://www.crossroad-tech.com/entry/Babylonjs-recipe-Vol1-en) - CrossRoad explains their road to creating the first book for the Japanese Babylon.js community. [[playground](https://scrapbox.io/babylonjs/Playground)]
+- [Integrating BabylonJS 3D Engine into an Angular Business Application](https://www.thinktecture.com/en/babylonjs/babylon-angular-performance-optimization/) - Gives some great tips about performance optimization.
 - [Journey Beyond The Docs](https://doc.babylonjs.com/guidedLearning/bjsBook) - Introduction by the Babylon.js team to the officially-endorsed book.
 - [Mesh shattering with baked physics](https://babylonjs.medium.com/mesh-shattering-with-baked-physics-5b3f8f381743) - Besides explaining how to use precompute physics for mesh shattering, this official blog post from the Babylon.js team shows how to integrate it with Node Material Editor.
 - [MR and the Web with Babylon.js 5.0](https://learn.microsoft.com/en-us/events/mixed-reality-dev-days/mr-and-the-web-with-babylonjs-50) - Microsoft Learn session introducing Babylon.js 5.0 and the new Babylon Native. [[youtube](https://www.youtube.com/watch?v=cMrIvPrkB0Y)]
