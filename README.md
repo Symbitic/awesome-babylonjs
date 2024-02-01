@@ -171,164 +171,164 @@ _Noteworthy examples of community-contributed content on the Babylon.js playgrou
 
 _Official Babylon.js demos that really showcase what it is capable of._
 
-- [ActionBuilder](https://www.babylonjs.com/Demos/ActionBuilder/) - Turn the lights on/off using flip switches. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/ActionBuilder)]
-- [Actions](https://www.babylonjs.com/Demos/Actions/) - A torus that goes around in a circle and changes shape when it hovers over another shape. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Actions)]
-- [Amp360Video](https://www.babylonjs.com/Demos/Amp360Video/) - Explore a video in 360°. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Amp360Video)]
-- [AssetsManager](https://www.babylonjs.com/Demos/AssetsManager/) - A human skull. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/AssetsManager)]
-- [AudioAnalyser](https://www.babylonjs.com/Demos/AudioAnalyser/) - Babylon isn't just graphics; it's a full game engine. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/AudioAnalyser)]
-- [Bones](https://www.babylonjs.com/Demos/Bones/) - A walking soldier + animated bunnies. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Bones)]
-- [Boom](https://www.babylonjs.com/Demos/Boom/) - Make things explode with a touch. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Boom)]
-- [Bump](https://www.babylonjs.com/Demos/Bump/) - Render a ball using bump mapping. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Bump)]
-- [CellShading](https://www.babylonjs.com/Demos/CellShading/) - Use cell-shading to reproduce a cartoon-like effect. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/CellShading)]
-- [Charting](https://www.babylonjs.com/Demos/Charting/) - 3D charts. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Charting)]
-- [ChibiRex](https://www.babylonjs.com/Demos/ChibiRex/) - An animated baby T-Rex. What more do you need? [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/ChibiRex)]
-- [Dancers](https://www.babylonjs.com/Demos/Dancers/) - Animated 3D dancers. _warning: takes a long time to load._ [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Dancers)]
-- [Dancing CSG](https://www.babylonjs.com/Demos/Dancing%20CSG/) - Constructive Solid Geometry using lights and a sparkly texture. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Dancing%20CSG)]
-- [Decals](https://www.babylonjs.com/Demos/Decals/) - Touch the cat to splatter it with black ink. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Decals)]
-- [DiStraction](https://www.babylonjs.com/Demos/Distraction/) - A JavaScript driving game demo. Works with a DS3. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Distraction)]
-- [DragNDrop](https://www.babylonjs.com/Demos/DragNDrop/) - Drag and rearrange different shapes. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/DragNDrop)]
-- [Espilit](https://www.babylonjs.com/Demos/Espilit/) - Explore an entire (barebones) house. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Espilit)]
-- [ExtrudePolygon](https://www.babylonjs.com/Demos/ExtrudePolygon/) - Destroy your own house. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/ExtrudePolygon)]
-- [Facets](https://www.babylonjs.com/Demos/Facets/) - A fountain of countless balls falling onto a complex shape, showcasing physics. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Facets)]
-- [Flat 2009](https://www.babylonjs.com/Demos/Flat2009/) - Explore an extremely detailed apartment, including a fishtank and bathroom. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Flat2009)]
-- [FlightHelmet](https://www.babylonjs.com/Demos/FlightHelmet/) - A realistic aviator's helmet. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/FlightHelmet)]
-- [Fur](https://www.babylonjs.com/Demos/Fur/) - A disturbingly furred bunny. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Fur)]
-- [GLTF](https://www.babylonjs.com/Demos/GLTF/) - A GLTF Alien model featuring facial animations. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/GLTF)]
-- [GUI](https://www.babylonjs.com/Demos/GUI/) - An interactive 3D UI. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/GUI)]
-- [GlowLayer](https://www.babylonjs.com/Demos/GlowLayer/) - Make a neon pipe glow like plasma. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/GlowLayer)]
-- [GlowingEspilit](https://www.babylonjs.com/Demos/GlowingEspilit/) - Espilit but with glowing effects. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/GlowingEspilit)]
-- [Heightmap](https://www.babylonjs.com/Demos/Heightmap/) - Generate terrain using a heightmap. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Heightmap)]
-- [HillValley](https://www.babylonjs.com/Demos/HillValley/) - Explore a town isolated from the outside world, like in _The Twilight Zone._ [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/HillValley)]
-- [HillValleyVR](https://www.babylonjs.com/Demos/HillValleyVR/) - HillValley but creepier in VR. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/HillValleyVR)]
-- [Ink](https://www.babylonjs.com/Demos/Ink/) - Quick Demo of using Babylon.js to simulate inking. [[source](https://github.com/sebavan/BabylonjsInkSample)]
-- [InstancedBones](https://www.babylonjs.com/Demos/InstancedBones/) - A group of soldiers marching in sync. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/InstancedBones)]
-- [Instances2](https://www.babylonjs.com/Demos/Instances2/) - A complex, moving space engine. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Instances2)]
-- [LookAt](https://www.babylonjs.com/Demos/LookAt/) - Stare at a colored ball moving around in a box of shapes. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/LookAt)]
-- [Mansion](https://www.babylonjs.com/Demos/Mansion/) - Explore a haunted mansion. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Mansion)]
-- [MansionVR](https://www.babylonjs.com/Demos/MansionVR/) - Explore a haunted mansion in virtual reality. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/MansionVR)]
-- [MotionBlur](https://www.babylonjs.com/Demos/MotionBlur/) - Blur things like if you were moving like The Flash. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/MotionBlur)]
-- [PBRGlossy](https://www.babylonjs.com/Demos/PBRGlossy/) - Physically based rendering of a battle-damaged sci-fi helmet. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/PBRGlossy)]
-- [PBRGlossyBloom](https://www.babylonjs.com/Demos/PBRGlossyBloom/) - Similar to PBRGlossy, but with an extra bloom filter. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/PBRGlossyBloom)]
-- [PPBloom](https://www.babylonjs.com/Demos/PPBloom/) - Simple post-processing. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/PPBloom)]
-- [PPConvolution](https://www.babylonjs.com/Demos/PPConvolution/) - A more advanced post-processing demo. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/PPConvolution)]
-- [Particles](https://www.babylonjs.com/Demos/Particles/) - Colorful particles erupting. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Particles)]
-- [Physics](https://www.babylonjs.com/Demos/Physics/) - Spheres and blocks with gravity added. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Physics)]
-- [Polygon](https://www.babylonjs.com/Demos/Polygon/) - It's a bird, but how did it get so flat? [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Polygon)]
-- [Procedural](https://www.babylonjs.com/Demos/Procedural/) - Don't hard-code content; generate it procedurally. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Procedural)]
-- [Retail](https://www.babylonjs.com/Demos/Retail/) - Explore a small store (no stealing). [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Retail)]
-- [SPS](https://www.babylonjs.com/Demos/SPS/) - Simulate asteroids around a planet using a solid particle system. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/SPS)]
-- [SPSCollisions](https://www.babylonjs.com/Demos/SPSCollisions/) - Solid particles as confetti being raining down on a ball. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/SPSCollisions)]
-- [SpaceDeK](https://www.babylonjs.com/Demos/SpaceDeK/) - Pretty darn close to a space-shooter. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/SpaceDeK)]
-- [Sponza](https://www.babylonjs.com/Demos/Sponza/) - The most famous Babylon.js demo. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Sponza)]
-- [SponzaDynamicShadows](https://www.babylonjs.com/Demos/SponzaDynamicShadows/) - A simpler version of Sponza, but with dynamic lights. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/SponzaDynamicShadows)]
-- [TheCar](https://www.babylonjs.com/Demos/TheCar/) - A futuristic car parked all by itself in a garage. Too bad there's no key. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/TheCar)]
-- [Train](https://www.babylonjs.com/Demos/Train/) - An incredibly realistic train. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Train)]
-- [Tunnel](https://www.babylonjs.com/Demos/Tunnel/) - Travel inside an endless rust-filled tunnel. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Tunnel)]
-- [V8](https://www.babylonjs.com/Demos/V8/) - A complex, moving replica of a V8 engine. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/V8)]
-- [Video Processing Sample](https://www.babylonjs.com/Demos/VideoProcessing/) - Quick Demo for setting up a Babylon.js real-time video processing using a webcam. [[source](https://github.com/sebavan/BabylonjsVideoProcessingSample)]
-- [WCafe](https://www.babylonjs.com/Demos/WCafe/) - Windows Cafe is a great place to unwind and have a relaxing look around. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/WCafe)]
-- [Yeti](https://www.babylonjs.com/Demos/Yeti/) - A non-threatening Yeti, complete with snow. [[source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Yeti)]
+- [ActionBuilder](https://www.babylonjs.com/Demos/ActionBuilder/) - Turn the lights on/off using flip switches. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/ActionBuilder))
+- [Actions](https://www.babylonjs.com/Demos/Actions/) - A torus that goes around in a circle and changes shape when it hovers over another shape. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Actions))
+- [Amp360Video](https://www.babylonjs.com/Demos/Amp360Video/) - Explore a video in 360°. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Amp360Video))
+- [AssetsManager](https://www.babylonjs.com/Demos/AssetsManager/) - A human skull. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/AssetsManager))
+- [AudioAnalyser](https://www.babylonjs.com/Demos/AudioAnalyser/) - Babylon isn't just graphics; it's a full game engine. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/AudioAnalyser))
+- [Bones](https://www.babylonjs.com/Demos/Bones/) - A walking soldier + animated bunnies. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Bones))
+- [Boom](https://www.babylonjs.com/Demos/Boom/) - Make things explode with a touch. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Boom))
+- [Bump](https://www.babylonjs.com/Demos/Bump/) - Render a ball using bump mapping. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Bump))
+- [CellShading](https://www.babylonjs.com/Demos/CellShading/) - Use cell-shading to reproduce a cartoon-like effect. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/CellShading))
+- [Charting](https://www.babylonjs.com/Demos/Charting/) - 3D charts. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Charting))
+- [ChibiRex](https://www.babylonjs.com/Demos/ChibiRex/) - An animated baby T-Rex. What more do you need? ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/ChibiRex))
+- [Dancers](https://www.babylonjs.com/Demos/Dancers/) - Animated 3D dancers. _warning: takes a long time to load._ ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Dancers))
+- [Dancing CSG](https://www.babylonjs.com/Demos/Dancing%20CSG/) - Constructive Solid Geometry using lights and a sparkly texture. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Dancing%20CSG))
+- [Decals](https://www.babylonjs.com/Demos/Decals/) - Touch the cat to splatter it with black ink. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Decals))
+- [DiStraction](https://www.babylonjs.com/Demos/Distraction/) - A JavaScript driving game demo. Works with a DS3. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Distraction))
+- [DragNDrop](https://www.babylonjs.com/Demos/DragNDrop/) - Drag and rearrange different shapes. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/DragNDrop))
+- [Espilit](https://www.babylonjs.com/Demos/Espilit/) - Explore an entire (barebones) house. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Espilit))
+- [ExtrudePolygon](https://www.babylonjs.com/Demos/ExtrudePolygon/) - Destroy your own house. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/ExtrudePolygon))
+- [Facets](https://www.babylonjs.com/Demos/Facets/) - A fountain of countless balls falling onto a complex shape, showcasing physics. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Facets))
+- [Flat 2009](https://www.babylonjs.com/Demos/Flat2009/) - Explore an extremely detailed apartment, including a fishtank and bathroom. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Flat2009))
+- [FlightHelmet](https://www.babylonjs.com/Demos/FlightHelmet/) - A realistic aviator's helmet. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/FlightHelmet))
+- [Fur](https://www.babylonjs.com/Demos/Fur/) - A disturbingly furred bunny. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Fur))
+- [GLTF](https://www.babylonjs.com/Demos/GLTF/) - A GLTF Alien model featuring facial animations. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/GLTF))
+- [GUI](https://www.babylonjs.com/Demos/GUI/) - An interactive 3D UI. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/GUI))
+- [GlowLayer](https://www.babylonjs.com/Demos/GlowLayer/) - Make a neon pipe glow like plasma. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/GlowLayer))
+- [GlowingEspilit](https://www.babylonjs.com/Demos/GlowingEspilit/) - Espilit but with glowing effects. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/GlowingEspilit))
+- [Heightmap](https://www.babylonjs.com/Demos/Heightmap/) - Generate terrain using a heightmap. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Heightmap))
+- [HillValley](https://www.babylonjs.com/Demos/HillValley/) - Explore a town isolated from the outside world, like in _The Twilight Zone._ ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/HillValley))
+- [HillValleyVR](https://www.babylonjs.com/Demos/HillValleyVR/) - HillValley but creepier in VR. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/HillValleyVR))
+- [Ink](https://www.babylonjs.com/Demos/Ink/) - Quick Demo of using Babylon.js to simulate inking. ([source](https://github.com/sebavan/BabylonjsInkSample))
+- [InstancedBones](https://www.babylonjs.com/Demos/InstancedBones/) - A group of soldiers marching in sync. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/InstancedBones))
+- [Instances2](https://www.babylonjs.com/Demos/Instances2/) - A complex, moving space engine. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Instances2))
+- [LookAt](https://www.babylonjs.com/Demos/LookAt/) - Stare at a colored ball moving around in a box of shapes. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/LookAt))
+- [Mansion](https://www.babylonjs.com/Demos/Mansion/) - Explore a haunted mansion. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Mansion))
+- [MansionVR](https://www.babylonjs.com/Demos/MansionVR/) - Explore a haunted mansion in virtual reality. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/MansionVR))
+- [MotionBlur](https://www.babylonjs.com/Demos/MotionBlur/) - Blur things like if you were moving like The Flash. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/MotionBlur))
+- [PBRGlossy](https://www.babylonjs.com/Demos/PBRGlossy/) - Physically based rendering of a battle-damaged sci-fi helmet. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/PBRGlossy))
+- [PBRGlossyBloom](https://www.babylonjs.com/Demos/PBRGlossyBloom/) - Similar to PBRGlossy, but with an extra bloom filter. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/PBRGlossyBloom))
+- [PPBloom](https://www.babylonjs.com/Demos/PPBloom/) - Simple post-processing. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/PPBloom))
+- [PPConvolution](https://www.babylonjs.com/Demos/PPConvolution/) - A more advanced post-processing demo. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/PPConvolution))
+- [Particles](https://www.babylonjs.com/Demos/Particles/) - Colorful particles erupting. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Particles))
+- [Physics](https://www.babylonjs.com/Demos/Physics/) - Spheres and blocks with gravity added. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Physics))
+- [Polygon](https://www.babylonjs.com/Demos/Polygon/) - It's a bird, but how did it get so flat? ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Polygon))
+- [Procedural](https://www.babylonjs.com/Demos/Procedural/) - Don't hard-code content; generate it procedurally. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Procedural))
+- [Retail](https://www.babylonjs.com/Demos/Retail/) - Explore a small store (no stealing). ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Retail))
+- [SPS](https://www.babylonjs.com/Demos/SPS/) - Simulate asteroids around a planet using a solid particle system. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/SPS))
+- [SPSCollisions](https://www.babylonjs.com/Demos/SPSCollisions/) - Solid particles as confetti being raining down on a ball. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/SPSCollisions))
+- [SpaceDeK](https://www.babylonjs.com/Demos/SpaceDeK/) - Pretty darn close to a space-shooter. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/SpaceDeK))
+- [Sponza](https://www.babylonjs.com/Demos/Sponza/) - The most famous Babylon.js demo. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Sponza))
+- [SponzaDynamicShadows](https://www.babylonjs.com/Demos/SponzaDynamicShadows/) - A simpler version of Sponza, but with dynamic lights. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/SponzaDynamicShadows))
+- [TheCar](https://www.babylonjs.com/Demos/TheCar/) - A futuristic car parked all by itself in a garage. Too bad there's no key. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/TheCar))
+- [Train](https://www.babylonjs.com/Demos/Train/) - An incredibly realistic train. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Train))
+- [Tunnel](https://www.babylonjs.com/Demos/Tunnel/) - Travel inside an endless rust-filled tunnel. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Tunnel))
+- [V8](https://www.babylonjs.com/Demos/V8/) - A complex, moving replica of a V8 engine. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/V8))
+- [Video Processing Sample](https://www.babylonjs.com/Demos/VideoProcessing/) - Quick Demo for setting up a Babylon.js real-time video processing using a webcam. ([source](https://github.com/sebavan/BabylonjsVideoProcessingSample))
+- [WCafe](https://www.babylonjs.com/Demos/WCafe/) - Windows Cafe is a great place to unwind and have a relaxing look around. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/WCafe))
+- [Yeti](https://www.babylonjs.com/Demos/Yeti/) - A non-threatening Yeti, complete with snow. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Yeti))
 
 ## Scenes
 
 _Extra demonstrations of Babylon.js_
 
-- [Minority Race](https://www.babylonjs.com/scenes/minority-race/) - A racing game made in 2016 for a film school. [[source](https://github.com/BabylonJS/Website/tree/master/build/Scenes/minority-race)]
-- [Robot Presentation](https://www.babylonjs.com/scenes/robot/) - A robot gives a timed presentation, with an interactive slider to control animation status. [[source](https://github.com/BabylonJS/Website/tree/master/build/Scenes/Robot)]
-- [Sandbox](https://www.babylonjs.com/scenes/sandbox/) - A sandbox for playing with Babylon files. [[source](https://github.com/BabylonJS/Website/tree/master/build/Scenes/Sandbox)]
-- [World Monger](https://www.babylonjs.com/scenes/worldmonger/) - Become a God and shape the world around you. [[source](https://github.com/BabylonJS/Website/tree/master/build/Scenes/WorldMonger)]
+- [Minority Race](https://www.babylonjs.com/scenes/minority-race/) - A racing game made in 2016 for a film school. ([source](https://github.com/BabylonJS/Website/tree/master/build/Scenes/minority-race))
+- [Robot Presentation](https://www.babylonjs.com/scenes/robot/) - A robot gives a timed presentation, with an interactive slider to control animation status. ([source](https://github.com/BabylonJS/Website/tree/master/build/Scenes/Robot))
+- [Sandbox](https://www.babylonjs.com/scenes/sandbox/) - A sandbox for playing with Babylon files. ([source](https://github.com/BabylonJS/Website/tree/master/build/Scenes/Sandbox))
+- [World Monger](https://www.babylonjs.com/scenes/worldmonger/) - Become a God and shape the world around you. ([source](https://github.com/BabylonJS/Website/tree/master/build/Scenes/WorldMonger))
 
 ## Games
 
 _Open source games built with Babylon.js_
 
-- [Alien Cargo](https://github.com/vudugun/AlienCargo) - A WebGL 3D game inspired by the classic puzzle game Sokoban. [[demo](https://vudugun.github.io/AlienCargo/)]
-- [Attack of the Killer Bunnies](https://github.com/farmersanonymous/killer-bunnies) - Where bunnies go to die. [[demo](https://ericbroberic.itch.io/attack-of-the-killer-bunnies)]
-- [Block](https://github.com/Temechon/block) - A block puzzle game [[demo](http://pixelcodr.com/games/block/game.html)]
-- [Cube Endless Runner](https://github.com/TiagoSilvaPereira/endless-runner-3d) - Cube Endless Runner is a 3D game built on top of WebGL and HTML5 technologies. [[demo](https://cube-endless-runner.herokuapp.com/)]
-- [Defend](https://github.com/xtreemze/defend) - Procedural Cross-Platform 3D Tower Defense Web Game with Physics and AI and Procedural Sound. [[demo](https://xtreemze.github.io/defend/)]
-- [F18 Fighter Simulation](https://github.com/renjianfeng/F18FlightSimulator-ammojs) - Simulation driving of F18 Fighter. [[demo](https://renjianfeng.github.io/F18FlightSimulator-ammojs/dist/index.html)]
-- [Hide and Seek Demo](https://github.com/colyseus/babylonjs-hide-and-seek) - Multiplayer Hide-and-Seek made with BabylonJS and Colyseus. [[demo](https://docs.colyseus.io/colyseus/demo/babylonjs-editor/hide-and-seek/)]
-- [Light Speed Ready!](https://github.com/Xanmia/Light-Speed-Ready) - A spaceship game of gathering resources and leveling your ship. [[demo](https://www.kraem.com/Light-Speed-Ready/game.html)]
-- [NeoTrap](https://github.com/ionic-proton/NeoTrap) - Music-based game. [[demo](https://omarxo.itch.io/neotrap)]
-- [Raucous Running and Rampaging Robot Racer Rally (R6)](https://github.com/hrr8-hermes/hrr8-hermes) - A fast-paced many-explosion robot racer game. [[demo](https://r6redux.herokuapp.com/)]
-- [Roll A Ball](https://github.com/impomales/roll-a-ball) - 3D Game to illustrate getting started with the Babylon.js game engine. [[demo](https://roll-a-ball-babylon.herokuapp.com/)]
-- [Simple 3D FPS](https://github.com/TiagoSilvaPereira/simple-3d-fps) - A simple FPS game following Clean Code principles. [[demo](https://simple-3d-fps-game.herokuapp.com/)]
-- [Space Invaders](https://github.com/johnpitchers/Space-Invaders) - Space Invaders in your browser with 3D WebGL. [[demo](https://spaceinvaders.viperfish.com.au/)]
-- [Space Pirates](https://github.com/BabylonJS/SpacePirates) - Shoot down pirates in space. [[demo](https://spacepirates.babylonjs.com/)]
-- [Summer's Festival](https://github.com/BabylonJS/SummerFestival) - Source code for the game tutorial written by capucat. [[demo](https://capucat.github.io/summers-festival/)]
-- [Theasis](https://github.com/ThanosRestas/Theasis) - FPS game. [[demo](https://thanosrestas.github.io/Theasis/dist/index.html)]
-- [VoxelSrv](https://github.com/VoxelSrv/voxelsrv) - Voxel browser game inspired by Minecraft. [[demo](http://voxelsrv-master.pb4.eu/)]
+- [Alien Cargo](https://github.com/vudugun/AlienCargo) - A WebGL 3D game inspired by the classic puzzle game Sokoban. ([demo](https://vudugun.github.io/AlienCargo/))
+- [Attack of the Killer Bunnies](https://github.com/farmersanonymous/killer-bunnies) - Where bunnies go to die. ([demo](https://ericbroberic.itch.io/attack-of-the-killer-bunnies))
+- [Block](https://github.com/Temechon/block) - A block puzzle game. ([demo](http://pixelcodr.com/games/block/game.html))
+- [Cube Endless Runner](https://github.com/TiagoSilvaPereira/endless-runner-3d) - Cube Endless Runner is a 3D game built on top of WebGL and HTML5 technologies. ([demo](https://cube-endless-runner.herokuapp.com/))
+- [Defend](https://github.com/xtreemze/defend) - Procedural Cross-Platform 3D Tower Defense Web Game with Physics and AI and Procedural Sound. ([demo](https://xtreemze.github.io/defend/))
+- [F18 Fighter Simulation](https://github.com/renjianfeng/F18FlightSimulator-ammojs) - Simulation driving of F18 Fighter. ([demo](https://renjianfeng.github.io/F18FlightSimulator-ammojs/dist/index.html))
+- [Hide and Seek Demo](https://github.com/colyseus/babylonjs-hide-and-seek) - Multiplayer Hide-and-Seek made with BabylonJS and Colyseus. ([demo](https://docs.colyseus.io/colyseus/demo/babylonjs-editor/hide-and-seek/))
+- [Light Speed Ready!](https://github.com/Xanmia/Light-Speed-Ready) - A spaceship game of gathering resources and leveling your ship. ([demo](https://www.kraem.com/Light-Speed-Ready/game.html))
+- [NeoTrap](https://github.com/ionic-proton/NeoTrap) - Music-based game. ([demo](https://omarxo.itch.io/neotrap))
+- [Raucous Running and Rampaging Robot Racer Rally (R6)](https://github.com/hrr8-hermes/hrr8-hermes) - A fast-paced many-explosion robot racer game. ([demo](https://r6redux.herokuapp.com/))
+- [Roll A Ball](https://github.com/impomales/roll-a-ball) - 3D Game to illustrate getting started with the Babylon.js game engine. ([demo](https://roll-a-ball-babylon.herokuapp.com/))
+- [Simple 3D FPS](https://github.com/TiagoSilvaPereira/simple-3d-fps) - A simple FPS game following Clean Code principles. ([demo](https://simple-3d-fps-game.herokuapp.com/))
+- [Space Invaders](https://github.com/johnpitchers/Space-Invaders) - Space Invaders in your browser with 3D WebGL. ([demo](https://spaceinvaders.viperfish.com.au/))
+- [Space Pirates](https://github.com/BabylonJS/SpacePirates) - Shoot down pirates in space. ([demo](https://spacepirates.babylonjs.com/))
+- [Summer's Festival](https://github.com/BabylonJS/SummerFestival) - Source code for the game tutorial written by capucat. ([demo](https://capucat.github.io/summers-festival/))
+- [Theasis](https://github.com/ThanosRestas/Theasis) - FPS game. ([demo](https://thanosrestas.github.io/Theasis/dist/index.html))
+- [VoxelSrv](https://github.com/VoxelSrv/voxelsrv) - Voxel browser game inspired by Minecraft. ([demo](http://voxelsrv-master.pb4.eu/))
 
 ## Projects
 
 _Open source projects using Babylon.js_
 
-- [3D Creator](https://github.com/simonguest/3dcreator) - A prototype that shows how students (grades 7-12) can use block-based programming to create immersive 3D scenes. [[demo](https://simonguest.github.io/3dcreator/)]
-- [3D Tetris](https://github.com/Symbitic/3DTetrisBabylon) - 3D Tetris using the Babylon.js engine. [[demo](https://symbitic.github.io/3DTetrisBabylon/)]
-- [BABYDOOM](https://github.com/Arc0re/arc0re.github.io) - Basic DOOM clone. [[demo](https://arc0re.github.io/)]
-- [babylon-demo](https://github.com/SvenFrankson/babylon-demo) - Babylon.js demo for academic purposes. [[demo](https://svenfrankson.github.io/BabylonDemoWeb/index.html)]
-- [BabylonFpsDemo](https://github.com/renjianfeng/BabylonFpsDemo) - A first-person shooter with Babylon.js [[demo](https://renjianfeng.github.io/BabylonFpsDemo/example/index.html)]
-- [BabylonJS-CharacterController](https://github.com/ssatguru/BabylonJS-CharacterController) - A CharacterController for Babylon.js [[demo](https://ssatguru.github.io/BabylonJS-CharacterController-Samples/demo/)]
-- [BabylonJS-Doom-Clone](https://github.com/Symbitic/BabylonJS-Doom-Clone) - Doom-style game crafted with love using Babylon.js [[demo](https://symbitic.github.io/BabylonJS-Doom-Clone/)]
-- [BabylonJSFirstSteps](https://github.com/topheman/BabylonJSFirstSteps) - You will find here my first steps on Babylon.js [[demo](http://labs.topheman.com/babylonjs/cone-example.html)]
-- [Babylon.js "magic" piano portal](https://github.com/docEdub/babylonjs-ar-piano-portal) - An augmented-reality WebXR animation of Chopin's "Winter Wind" Étude to hang on your wall! Works on flat-screen, too. [[demo](https://demos.babylonjs.com/piano-portal/)]
-- [BabylonJS Typescript Logic Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) - A collection of small projects that show possible ways of handling game logic with Babylon.js
+- [3D Creator](https://github.com/simonguest/3dcreator) - A prototype that shows how students (grades 7-12) can use block-based programming to create immersive 3D scenes. ([demo](https://simonguest.github.io/3dcreator/))
+- [3D Tetris](https://github.com/Symbitic/3DTetrisBabylon) - 3D Tetris using the Babylon.js engine. ([demo](https://symbitic.github.io/3DTetrisBabylon/))
+- [BABYDOOM](https://github.com/Arc0re/arc0re.github.io) - Basic DOOM clone. ([demo](https://arc0re.github.io/))
+- [babylon-demo](https://github.com/SvenFrankson/babylon-demo) - Babylon.js demo for academic purposes. ([demo](https://svenfrankson.github.io/BabylonDemoWeb/index.html))
+- [BabylonFpsDemo](https://github.com/renjianfeng/BabylonFpsDemo) - A first-person shooter with Babylon.js ([demo](https://renjianfeng.github.io/BabylonFpsDemo/example/index.html))
+- [BabylonJS-CharacterController](https://github.com/ssatguru/BabylonJS-CharacterController) - A CharacterController for Babylon.js ([demo](https://ssatguru.github.io/BabylonJS-CharacterController-Samples/demo/))
+- [BabylonJS-Doom-Clone](https://github.com/Symbitic/BabylonJS-Doom-Clone) - Doom-style game crafted with love using Babylon.js ([demo](https://symbitic.github.io/BabylonJS-Doom-Clone/))
+- [BabylonJSFirstSteps](https://github.com/topheman/BabylonJSFirstSteps) - You will find here my first steps on Babylon.js ([demo](http://labs.topheman.com/babylonjs/cone-example.html))
+- [Babylon.js "magic" piano portal](https://github.com/docEdub/babylonjs-ar-piano-portal) - An augmented-reality WebXR animation of Chopin's "Winter Wind" Étude to hang on your wall! Works on flat-screen, too. ([demo](https://demos.babylonjs.com/piano-portal/))
+- [BabylonJS Typescript Logic Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) - A collection of small projects that show possible ways of handling game logic in a Babylon.js game.
 - [babylonjs-typescript-webpack-starter](https://github.com/pandadelphin/babylonjs-typescript-webpack-starter) - A starter template for those who want to use the famous JavaScript 3D game engine Babylon.js with TypeScript and Webpack.
 - [babylonjs-webpack-es6](https://github.com/RaananW/babylonjs-webpack-es6) - Babylon.js basic scene with typescript, webpack, es6 modules, editorconfig, eslint, hot loading and more. Will even make coffee if you ask nicely.
-- [babylonjs-webxr-template](https://github.com/yuiseki/babylonjs-webxr-template) - Babylon.js + TypeScript WebXR template project. [[demo](https://yuiseki.github.io/babylonjs-webxr-template/)]
-- [babylon-mtoon-material](https://github.com/virtual-cast/babylon-mtoon-material) - Unity MToon Shader WebGL porting to Babylon.js. [[demo](https://virtual-cast.github.io/babylon-mtoon-material/)]
-- [Babylon PostEffect Designer](https://github.com/HarveyLijh/Babylon_PostEffect_Designer_JL) - Full control of post effects adjustments in Babylon.js. Supports real-time post-effect adjustments, mesh import, and post-effect data sharing. [[demo](https://harveylijh.github.io/Babylon_PostEffect_Designer_JL/)]
-- [babylon_ragdoll_robi](https://github.com/Takebon/babylon_ragdoll_robi) - Babylon.js ragdoll robot. [[demo](https://ragdoll-robi.web.app/)]
-- [babylon-steering](https://github.com/LorenzoCorbella74/babylon-steering) - Steering behaviors library for Babylon.js for moving entities in the x/z plane.
-- [Bomberman 3D](https://github.com/adisoftbn/Bomberman3D) - Experimental game dev with Babylon.js and Angular 5. [[demo](https://adisoftbn.github.io/Bomberman3D/)]
-- [cannon-es-debugger-babylonjs](https://github.com/neu5/cannon-es-debugger-babylonjs) - This is a debugger for use with cannon-es and Babylon.js [[demo](https://neu5.github.io/cannon-es-debugger-babylonjs/)]
-- [Christmas runner](https://github.com/Temechon/Christmas-runner) - A Babylon.js game made for Christmas. [[demo](http://pixelcodr.com/games/christmasRunner/)]
+- [babylonjs-webxr-template](https://github.com/yuiseki/babylonjs-webxr-template) - Babylon.js + TypeScript WebXR template project. ([demo](https://yuiseki.github.io/babylonjs-webxr-template/))
+- [babylon-mtoon-material](https://github.com/virtual-cast/babylon-mtoon-material) - Unity MToon Shader WebGL porting to Babylon.js. ([demo](https://virtual-cast.github.io/babylon-mtoon-material/))
+- [Babylon PostEffect Designer](https://github.com/HarveyLijh/Babylon_PostEffect_Designer_JL) - Full control of post effects adjustments in Babylon.js. Supports real-time post-effect adjustments, mesh import, and post-effect data sharing. ([demo](https://harveylijh.github.io/Babylon_PostEffect_Designer_JL/))
+- [babylon_ragdoll_robi](https://github.com/Takebon/babylon_ragdoll_robi) - Babylon.js ragdoll robot. ([demo](https://ragdoll-robi.web.app/))
+- [babylon-steering](https://github.com/LorenzoCorbella74/babylon-steering) - Steering behaviors library for moving entities in the x/z plane.
+- [Bomberman 3D](https://github.com/adisoftbn/Bomberman3D) - Experimental game dev with Babylon.js and Angular 5. ([demo](https://adisoftbn.github.io/Bomberman3D/))
+- [cannon-es-debugger-babylonjs](https://github.com/neu5/cannon-es-debugger-babylonjs) - This is a debugger for use with cannon-es. ([demo](https://neu5.github.io/cannon-es-debugger-babylonjs/))
+- [Christmas runner](https://github.com/Temechon/Christmas-runner) - A Babylon.js game made for Christmas. ([demo](http://pixelcodr.com/games/christmasRunner/))
 - [Divine Voxel Engine](https://github.com/Divine-Star-Software/DivineVoxelEngine) - A truly multi-threaded JavaScript voxel game engine written in TypeScript.
 - [ecsy-babylon](https://github.com/kaliber5/ecsy-babylon) - Experimental Babylon.js implementation of ECSY.
-- [Epic Guide](https://github.com/Temechon/Babylon.js-FPS) - A game about going for a walk in a friendly world :) [[demo](http://pixelcodr.com/games/babylonjs-fps/)]
-- [facecap](https://github.com/imerso/facecap) - Mediapipe face capture. [[demo](https://imerso.github.io/babylon.js/facecap/)]
-- [fps-babylon-js](https://github.com/Raigyo/fps-babylon-js) - Online Multiplayer First Person Shooter with Babylon.js & SocketIO. [[demo](https://babylon-fps-online.herokuapp.com/)]
-- [HTML5 FPS](https://github.com/csarkosh/html5-fps) - Demo of an HTML5 first-person rig built on Babylon.js and React. [[demo](https://fps.csarko.sh/)]
-- [Kicker](https://github.com/Temechon/kicker) - A soccer ball game made for Babylon.js February Challenge. [[demo](http://pixelcodr.com/games/kicker/)]
-- [KZ Climbing](https://github.com/BabylonJSGames/BabylonJS-Platformer-Game-Prototype) - A 3D platformer browser game prototype made with the Babylon.js framework written in TypeScript. [[demo](https://kzclimbing.netlify.app/client/public/)]
-- [Molvwr](https://github.com/gleborgne/molvwr) - WebGL molecule viewer. [[demo](https://gleborgne.github.io/molvwr/)]
-- [Multiplayer Babylon JS "Game" with Client & Server-Side Physics Engine](https://github.com/aeon0/multiplayer-babylon-js-game) - Multiplayer game with server and client-side physics engine synchronization. [[demo](http://185.82.21.82:8700/)]
-- [Multiplayer FPS-Game](https://github.com/aeon0/FPS-Game) - A Multiplayer FPS. [[demo](http://185.82.21.82/FPS-Game/public/)]
+- [Epic Guide](https://github.com/Temechon/Babylon.js-FPS) - A FPS game about going for a walk. ([demo](http://pixelcodr.com/games/babylonjs-fps/))
+- [facecap](https://github.com/imerso/facecap) - Mediapipe face capture. ([demo](https://imerso.github.io/babylon.js/facecap/))
+- [fps-babylon-js](https://github.com/Raigyo/fps-babylon-js) - Online Multiplayer First Person Shooter with Babylon.js & SocketIO. ([demo](https://babylon-fps-online.herokuapp.com/))
+- [HTML5 FPS](https://github.com/csarkosh/html5-fps) - Demo of an HTML5 first-person rig built on Babylon.js and React. ([demo](https://fps.csarko.sh/))
+- [Kicker](https://github.com/Temechon/kicker) - A soccer ball game made for Babylon.js February Challenge. ([demo](http://pixelcodr.com/games/kicker/))
+- [KZ Climbing](https://github.com/BabylonJSGames/BabylonJS-Platformer-Game-Prototype) - A 3D platformer browser game prototype similar to "KZ" maps in Counter Strike. ([demo](https://kzclimbing.netlify.app/client/public/))
+- [Molvwr](https://github.com/gleborgne/molvwr) - WebGL molecule viewer. ([demo](https://gleborgne.github.io/molvwr/))
+- [multiplayer-babylon-js-game](https://github.com/aeon0/multiplayer-babylon-js-game) - Multiplayer game with server and client-side physics engine synchronization. ([demo](http://185.82.21.82:8700/))
+- [Multiplayer FPS-Game](https://github.com/aeon0/FPS-Game) - A Multiplayer FPS. ([demo](http://185.82.21.82/FPS-Game/public/))
 - [nengi + Babylon 3D shooter template](https://github.com/timetocode/nengi-babylon-3d-shooter) - A template game for multiplayer 3D shooters made in Babylon.js + nengi.js with client-side prediction and lag compensation.
-- [OceanDemo](https://github.com/Popov72/OceanDemo) - Ocean demo in WebGPU. [[demo](https://popov72.github.io/OceanDemo/dist/index.html)]
-- [Oculus Quest Remote Desktop](https://github.com/shinyoshiaki/oculus-quest-remote-desktop) - Remote desktop for Oculus Quest. [[demo](https://shinyoshiaki.github.io/oculus-quest-remote-desktop/build/)]
-- [Playlist Browser XR](https://github.com/Symbitic/PlaylistBrowserXR) - Browse Spotify playlists in Virtual Reality. [[demo](https://www.playlistbrowserxr.xyz/)]
-- [Pokeball Workshop](https://gitlab.com/side_project/pokeball-workshop) - Items from the classic series. [[demo](https://side_project.gitlab.io/pokeball-workshop/)]
-- [react-babylonjs](https://github.com/brianzinn/react-babylonjs) - React for Babylon.js [[demo](https://brianzinn.github.io/react-babylonjs/)]
-- [react-babylon-spring](https://github.com/hookex/react-babylon-spring) - Build spring-physics based 3D animation with the power of react-babylonjs and react-spring. [[demo](https://hooke.life/react-babylon-spring/)]
-- [Roblox meets film noir](https://github.com/TomWHall/babylon-js-platformer) - A 3D platform game demo using Babylon.js and React. [[demo](https://tomwhall.github.io/babylon-js-platformer/)]
+- [OceanDemo](https://github.com/Popov72/OceanDemo) - Ocean demo in WebGPU. ([demo](https://popov72.github.io/OceanDemo/dist/index.html))
+- [Oculus Quest Remote Desktop](https://github.com/shinyoshiaki/oculus-quest-remote-desktop) - Remote desktop for Oculus Quest. ([demo](https://shinyoshiaki.github.io/oculus-quest-remote-desktop/build/))
+- [Playlist Browser XR](https://github.com/Symbitic/PlaylistBrowserXR) - Browse Spotify playlists in Virtual Reality. ([demo](https://www.playlistbrowserxr.xyz/))
+- [Pokeball Workshop](https://gitlab.com/side_project/pokeball-workshop) - Interactive models from Game Freak's classic series. ([demo](https://side_project.gitlab.io/pokeball-workshop/))
+- [react-babylonjs](https://github.com/brianzinn/react-babylonjs) - React for Babylon.js ([demo](https://brianzinn.github.io/react-babylonjs/))
+- [react-babylon-spring](https://github.com/hookex/react-babylon-spring) - Build spring-physics based 3D animation with the power of react-babylonjs and react-spring. ([demo](https://hooke.life/react-babylon-spring/))
+- [Roblox meets film noir](https://github.com/TomWHall/babylon-js-platformer) - A 3D platform game demo using Babylon.js and React. ([demo](https://tomwhall.github.io/babylon-js-platformer/))
 - [Space Jam: A New Legacy BabylonJS Mixed Reality Experience](https://github.com/microsoft/space-jam-a-new-legacy-babylonjs-template) - This repository pairs with the Babylon.js Mixed Reality module that is part of the Microsoft Learn learning path inspired by the _Space Jam: A New Legacy_ film.
-- [Swarm](https://temechon.itch.io/swarm) - A Babylon.js scene made for the screensaver jam. [[demo](https://github.com/Temechon/screensaver)]
-- [TanksBattle_WebGL_Using_Babylonjs](https://github.com/khaledose/TanksBattle_WebGL_Using_Babylonjs) - 3D Tanks Battle WebGL game using Babylon.js game engine. [[demo](https://www.youtube.com/watch?v=HJrAUqTd1oU)]
-- [Tomb Raider Nostalgia](https://github.com/Popov72/TRN2) - View levels and play cut scenes for old Tomb Raider games 1/2/3/4. [[demo](https://popov72.github.io/TRN2/)]
-- [VR Office Throwing Game](https://github.com/wilcoschoneveld/office) - A VR throwing game. [[demo](https://office.wilcoschoneveld.com/)]
-- [Vue-BabylonJS](https://github.com/Beg-in/vue-babylonjs) - A ready-to-go 3D environment for Vue.js using Babylon.js [[demo](https://vue-babylonjs.com/)]
-- [WebXR Depth Testbed Babylon.js](https://github.com/drumath2237/webxr-depth-testbed-babylon) - testbed for WebXR Depth Feature. [[demo](https://drumath2237.github.io/webxr-depth-testbed-babylon/)]
-- [WebXR Measuring Tape](https://github.com/Narendra-Kamath/webxr-measuring-tape) - :zap: An Augmented Reality real-world length measuring web application built by the modification of the example being provided by babylonjs - concept of using WebXR HitTarget feature. [[demo](https://narendra-kamath.github.io/webxr-measuring-tape/)]
-- [yuka-babylonjs-examples](https://github.com/eldinor/yuka-babylonjs-examples) - Yuka Game AI + 3D rendering with Babylon.js [[demo](https://yuka.babylonpress.org/)]
+- [Swarm](https://temechon.itch.io/swarm) - A Babylon.js scene made for the screensaver jam. ([demo](https://github.com/Temechon/screensaver))
+- [TanksBattle_WebGL_Using_Babylonjs](https://github.com/khaledose/TanksBattle_WebGL_Using_Babylonjs) - 3D Tanks Battle WebGL game. ([video](https://www.youtube.com/watch?v=HJrAUqTd1oU))
+- [Tomb Raider Nostalgia](https://github.com/Popov72/TRN2) - View levels and play cut scenes for old Tomb Raider games 1/2/3/4. ([demo](https://popov72.github.io/TRN2/))
+- [VR Office Throwing Game](https://github.com/wilcoschoneveld/office) - A VR throwing game. ([demo](https://office.wilcoschoneveld.com/))
+- [Vue-BabylonJS](https://github.com/Beg-in/vue-babylonjs) - A ready-to-go 3D environment for Vue.js using Babylon.js ([demo](https://vue-babylonjs.com/))
+- [webxr-depth-testbed-babylon](https://github.com/drumath2237/webxr-depth-testbed-babylon) - Testbed for WebXR Depth Feature. ([demo](https://drumath2237.github.io/webxr-depth-testbed-babylon/))
+- [WebXR Measuring Tape](https://github.com/Narendra-Kamath/webxr-measuring-tape) - :zap: An Augmented Reality real-world length-measuring web app using the WebXR HitTarget feature. ([demo](https://narendra-kamath.github.io/webxr-measuring-tape/))
+- [yuka-babylonjs-examples](https://github.com/eldinor/yuka-babylonjs-examples) - Examples of using Yuka for Game AI. ([demo](https://yuka.babylonpress.org/))
 
 ## Examples
 
 _Demos of Babylon.js on the web._
 
-- [Roller coaster](https://jerome.bousquie.fr/BJS/demos/rollercoaster.html) [[JS](https://jerome.bousquie.fr/BJS/demos/rollercoaster.js)]
-- [Star Fighter](http://jerome.bousquie.fr/BJS/OfficeGames/StarFighter/StarFighter.html) [[JS](https://github.com/jbousquie/OfficeGames/blob/master/StarFighter/StarFighter.js)]
-- [Blowing Wall](https://jerome.bousquie.fr/BJS/demos/blow.html) [[JS](https://jerome.bousquie.fr/BJS/demos/blow.js)]
-- [Trailing Particles](https://jerome.bousquie.fr/BJS/demos/trailingParticles.html) [[JS](https://jerome.bousquie.fr/BJS/demos/trailingParticles.js)]
-- [SPS AssemblyScript Demo](https://jerome.bousquie.fr/BJS/test/SPSWasm/spsWasm.html) [[JS](https://jerome.bousquie.fr/BJS/test/SPSWasm/spsWasm.js)] [[AS](https://jerome.bousquie.fr/BJS/test/SPSWasm/index.ts)]
-- [Yuka Corridor Algorithm](https://yuka.babylonpress.org/examples/js/graph/corridor/) [[source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/graph/corridor)]
-- [Yuka First-Person Shooter](https://yuka.babylonpress.org/examples/js/playground/shooter/) [[source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/playground/shooter)]
-- [Yuka Hide And Seek Shooter](https://yuka.babylonpress.org/examples/js/playground/hideAndSeek/) [[source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/playground/hideAndSeek)]
-- [Yuka Navigation Mesh](https://yuka.babylonpress.org/examples/js/navigation/navmesh/) [[source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/navigation/navmesh)]
-- [Yuka Navmesh Performance](https://yuka.babylonpress.org/examples/js/navigation/navmeshPerformance/) [[source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/navigation/navmeshPerformance)]
-- [Yuka Savegames](https://yuka.babylonpress.org/examples/js/misc/savegame/) [[source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/misc/savegame)]
-- [Yuka Tic-Tac-Toe](https://yuka.babylonpress.org/examples/js/graph/tictactoe/) [[source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/graph/tictactoe)]
+- [Roller coaster](https://jerome.bousquie.fr/BJS/demos/rollercoaster.html) - [JS](https://jerome.bousquie.fr/BJS/demos/rollercoaster.js)
+- [Star Fighter](http://jerome.bousquie.fr/BJS/OfficeGames/StarFighter/StarFighter.html) - [JS](https://github.com/jbousquie/OfficeGames/blob/master/StarFighter/StarFighter.js)
+- [Blowing Wall](https://jerome.bousquie.fr/BJS/demos/blow.html) - [JS](https://jerome.bousquie.fr/BJS/demos/blow.js)
+- [Trailing Particles](https://jerome.bousquie.fr/BJS/demos/trailingParticles.html) - [JS](https://jerome.bousquie.fr/BJS/demos/trailingParticles.js)
+- [SPS AssemblyScript Demo](https://jerome.bousquie.fr/BJS/test/SPSWasm/spsWasm.html) - [JS](https://jerome.bousquie.fr/BJS/test/SPSWasm/spsWasm.js)/[AS](https://jerome.bousquie.fr/BJS/test/SPSWasm/index.ts)
+- [Yuka Corridor Algorithm](https://yuka.babylonpress.org/examples/js/graph/corridor/) - [source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/graph/corridor)
+- [Yuka First-Person Shooter](https://yuka.babylonpress.org/examples/js/playground/shooter/) - [source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/playground/shooter)
+- [Yuka Hide And Seek Shooter](https://yuka.babylonpress.org/examples/js/playground/hideAndSeek/) - [source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/playground/hideAndSeek)
+- [Yuka Navigation Mesh](https://yuka.babylonpress.org/examples/js/navigation/navmesh/) - [source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/navigation/navmesh)
+- [Yuka Navmesh Performance](https://yuka.babylonpress.org/examples/js/navigation/navmeshPerformance/) - [source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/navigation/navmeshPerformance)
+- [Yuka Savegames](https://yuka.babylonpress.org/examples/js/misc/savegame/) - [source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/misc/savegame)
+- [Yuka Tic-Tac-Toe](https://yuka.babylonpress.org/examples/js/graph/tictactoe/) - [source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/graph/tictactoe)
 
 ## Links
 
@@ -347,11 +347,11 @@ _Information by developers, for developers._
 - [Frame at Microsoft Build: Speaking the World Into Existence](https://learn.framevr.io/post/msbuild2022) - FrameVR explains their web-based metaverse platform they demoed at Microsoft Build.
 - [Getting cross-platform rendering with Babylon Native and GLFW](https://babylonjs.medium.com/getting-cross-platform-rendering-with-babylon-native-and-glfw-e0f1422f4d74) - A guide to the low-level rendering architecture using in Babylon Native.
 - [How to Setup Babylon + Next.js Production Build Optimized for SEO & Speed](https://3designer.app/best/babylon-nextjs-setup) - 3Designer explains how to use Next.js to improve any Babylon.js project with faster loading and search engine visibility.
-- [How we published a new Babylon.js recipe book Vol. 1](https://www.crossroad-tech.com/entry/Babylonjs-recipe-Vol1-en) - CrossRoad explains their road to creating the first book for the Japanese Babylon.js community. [[playground](https://scrapbox.io/babylonjs/Playground)]
+- [How we published a new Babylon.js recipe book Vol. 1](https://www.crossroad-tech.com/entry/Babylonjs-recipe-Vol1-en) - CrossRoad explains their road to creating the first book for the Japanese Babylon.js community. ([playground](https://scrapbox.io/babylonjs/Playground))
 - [Integrating BabylonJS 3D Engine into an Angular Business Application](https://www.thinktecture.com/en/babylonjs/babylon-angular-performance-optimization/) - Gives some great tips about performance optimization.
 - [Journey Beyond The Docs](https://doc.babylonjs.com/guidedLearning/bjsBook) - Introduction by the Babylon.js team to the officially-endorsed book.
 - [Mesh shattering with baked physics](https://babylonjs.medium.com/mesh-shattering-with-baked-physics-5b3f8f381743) - Besides explaining how to use precompute physics for mesh shattering, this official blog post from the Babylon.js team shows how to integrate it with Node Material Editor.
-- [MR and the Web with Babylon.js 5.0](https://learn.microsoft.com/en-us/events/mixed-reality-dev-days/mr-and-the-web-with-babylonjs-50) - Microsoft Learn session introducing Babylon.js 5.0 and the new Babylon Native. [[youtube](https://www.youtube.com/watch?v=cMrIvPrkB0Y)]
+- [MR and the Web with Babylon.js 5.0](https://learn.microsoft.com/en-us/events/mixed-reality-dev-days/mr-and-the-web-with-babylonjs-50) - Microsoft Learn session introducing Babylon.js 5.0 and the new Babylon Native. ([recording](https://www.youtube.com/watch?v=cMrIvPrkB0Y))
 - [Optimizing a Large-Scale Babylon.js Scene](https://joepavitt.medium.com/optimizing-a-large-scale-babylon-js-scene-9466bb715e15) - Gives tips on how to render a large number of meshes and vertices without impacting performance.
 - [Using WebXR With Babylon.js — Smashing Magazine](https://www.smashingmagazine.com/2020/10/using-webxr-with-babylonjs/) - Provides a comprehensive introduction to WebXR and how to use it to develop immersive experiences.
 - [Yuka + Babylon.js Examples - Game AI Examples with Babylon.js](https://yuka.babylonpress.org/examples/) - A first-rate collection of Babylon.js demos, each using Yuka for AI.
