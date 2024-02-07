@@ -267,6 +267,7 @@ _Open source projects using Babylon.js_
 - [3D Creator](https://github.com/simonguest/3dcreator) - A prototype that shows how students (grades 7-12) can use block-based programming to create immersive 3D scenes. ([demo](https://simonguest.github.io/3dcreator/))
 - [3D Tetris](https://github.com/Symbitic/3DTetrisBabylon) - 3D Tetris using the Babylon.js engine. ([demo](https://symbitic.github.io/3DTetrisBabylon/))
 - [BABYDOOM](https://github.com/Arc0re/arc0re.github.io) - Basic DOOM clone. ([demo](https://arc0re.github.io/))
+- [babylon-accessibility-example](https://github.com/Symbitic/babylon-accessibility-example) - Example of how to add accessibility to 3D models. ([demo](https://symbitic.github.io/babylon-accessibility-example/))
 - [babylon-demo](https://github.com/SvenFrankson/babylon-demo) - Babylon.js demo for academic purposes. ([demo](https://svenfrankson.github.io/BabylonDemoWeb/index.html))
 - [BabylonFpsDemo](https://github.com/renjianfeng/BabylonFpsDemo) - A first-person shooter with Babylon.js ([demo](https://renjianfeng.github.io/BabylonFpsDemo/example/index.html))
 - [BabylonJS-CharacterController](https://github.com/ssatguru/BabylonJS-CharacterController) - A CharacterController for Babylon.js ([demo](https://ssatguru.github.io/BabylonJS-CharacterController-Samples/demo/))
