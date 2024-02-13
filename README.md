@@ -105,6 +105,7 @@ _Noteworthy examples of community-contributed content on the Babylon.js playgrou
 - [Hit the cube](https://playground.babylonjs.com/#0JC454#16)
 - [Holographic keyboard](https://playground.babylonjs.com/#LU3FLF#6)
 - [Hopping game](https://playground.babylonjs.com/#0IIB3N#44)
+- [HtmlMesh demo](https://playground.babylonjs.com/#Y2LIXI#44)
 - [Joint Impulse Example](https://playground.babylonjs.com/#UFVU18#18)
 - [Laser Saber](https://playground.babylonjs.com/#ZS41RU#0)
 - [Lego Buggy Mesh](https://playground.babylonjs.com/#K7TJIG#0)
@@ -244,6 +245,7 @@ _Open source games built with Babylon.js_
 
 - [Alien Cargo](https://github.com/vudugun/AlienCargo) - A WebGL 3D game inspired by the classic puzzle game Sokoban. ([demo](https://vudugun.github.io/AlienCargo/))
 - [Attack of the Killer Bunnies](https://github.com/farmersanonymous/killer-bunnies) - Where bunnies go to die. ([demo](https://ericbroberic.itch.io/attack-of-the-killer-bunnies))
+- [Barkanoid](https://github.com/pigmin/Breakout) - Arkanoid / Breakout clone with cinematic opening. ([demo](https://pigmin.github.io/Breakout/))
 - [Block](https://github.com/Temechon/block) - A block puzzle game. ([demo](http://pixelcodr.com/games/block/game.html))
 - [Cube Endless Runner](https://github.com/TiagoSilvaPereira/endless-runner-3d) - Cube Endless Runner is a 3D game built on top of WebGL and HTML5 technologies. ([demo](https://cube-endless-runner.herokuapp.com/))
 - [Defend](https://github.com/xtreemze/defend) - Procedural Cross-Platform 3D Tower Defense Web Game with Physics and AI and Procedural Sound. ([demo](https://xtreemze.github.io/defend/))
@@ -251,6 +253,7 @@ _Open source games built with Babylon.js_
 - [Hide and Seek Demo](https://github.com/colyseus/babylonjs-hide-and-seek) - Multiplayer Hide-and-Seek made with BabylonJS and Colyseus. ([demo](https://docs.colyseus.io/colyseus/demo/babylonjs-editor/hide-and-seek/))
 - [Light Speed Ready!](https://github.com/Xanmia/Light-Speed-Ready) - A spaceship game of gathering resources and leveling your ship. ([demo](https://www.kraem.com/Light-Speed-Ready/game.html))
 - [NeoTrap](https://github.com/ionic-proton/NeoTrap) - Music-based game. ([demo](https://omarxo.itch.io/neotrap))
+- [Planet Builder](https://github.com/SvenFrankson/planet-builder-web) - Spherical Voxel Engine demo with a robot hand. ([demo](https://svenfrankson.github.io/PlanetBuilder2022/index.html))
 - [Raucous Running and Rampaging Robot Racer Rally (R6)](https://github.com/hrr8-hermes/hrr8-hermes) - A fast-paced many-explosion robot racer game. ([demo](https://r6redux.herokuapp.com/))
 - [Roll A Ball](https://github.com/impomales/roll-a-ball) - 3D Game to illustrate getting started with the Babylon.js game engine. ([demo](https://roll-a-ball-babylon.herokuapp.com/))
 - [Simple 3D FPS](https://github.com/TiagoSilvaPereira/simple-3d-fps) - A simple FPS game following Clean Code principles. ([demo](https://simple-3d-fps-game.herokuapp.com/))
@@ -288,8 +291,10 @@ _Open source projects using Babylon.js_
 - [Divine Voxel Engine](https://github.com/Divine-Star-Software/DivineVoxelEngine) - A truly multi-threaded JavaScript voxel game engine written in TypeScript.
 - [ecsy-babylon](https://github.com/kaliber5/ecsy-babylon) - Experimental Babylon.js implementation of ECSY.
 - [Epic Guide](https://github.com/Temechon/Babylon.js-FPS) - A FPS game about going for a walk. ([demo](http://pixelcodr.com/games/babylonjs-fps/))
+- [ergoudan](https://github.com/armomu/ergoudan) - Havok physics character controller demo. ([demo](https://armomu.github.io/ergoudan/#/))
 - [facecap](https://github.com/imerso/facecap) - Mediapipe face capture. ([demo](https://imerso.github.io/babylon.js/facecap/))
 - [fps-babylon-js](https://github.com/Raigyo/fps-babylon-js) - Online Multiplayer First Person Shooter with Babylon.js & SocketIO. ([demo](https://babylon-fps-online.herokuapp.com/))
+- [glTF_Physics_Babylon](https://github.com/eoineoineoin/glTF_Physics_Babylon) - Demonstrates filters, joints, and complex assets like a water wheel. ([demo](https://eoineoineoin.github.io/glTF_Physics_Babylon/packages/demo/dist/#sceneIndex=6))
 - [HTML5 FPS](https://github.com/csarkosh/html5-fps) - Demo of an HTML5 first-person rig built on Babylon.js and React. ([demo](https://fps.csarko.sh/))
 - [Kicker](https://github.com/Temechon/kicker) - A soccer ball game made for Babylon.js February Challenge. ([demo](http://pixelcodr.com/games/kicker/))
 - [KZ Climbing](https://github.com/BabylonJSGames/BabylonJS-Platformer-Game-Prototype) - A 3D platformer browser game prototype similar to "KZ" maps in Counter Strike. ([demo](https://kzclimbing.netlify.app/client/public/))
@@ -306,6 +311,7 @@ _Open source projects using Babylon.js_
 - [Roblox meets film noir](https://github.com/TomWHall/babylon-js-platformer) - A 3D platform game demo using Babylon.js and React. ([demo](https://tomwhall.github.io/babylon-js-platformer/))
 - [Space Jam: A New Legacy BabylonJS Mixed Reality Experience](https://github.com/microsoft/space-jam-a-new-legacy-babylonjs-template) - This repository pairs with the Babylon.js Mixed Reality module that is part of the Microsoft Learn learning path inspired by the _Space Jam: A New Legacy_ film.
 - [Swarm](https://temechon.itch.io/swarm) - A Babylon.js scene made for the screensaver jam. ([demo](https://github.com/Temechon/screensaver))
+- [t5c](https://github.com/orion3dgames/t5c) - The 5th Continent - an open-source multiplayer 3D RPG. ([demo](https://t5c.onrender.com/))
 - [TanksBattle_WebGL_Using_Babylonjs](https://github.com/khaledose/TanksBattle_WebGL_Using_Babylonjs) - 3D Tanks Battle WebGL game. ([video](https://www.youtube.com/watch?v=HJrAUqTd1oU))
 - [Tomb Raider Nostalgia](https://github.com/Popov72/TRN2) - View levels and play cut scenes for old Tomb Raider games 1/2/3/4. ([demo](https://popov72.github.io/TRN2/))
 - [VR Office Throwing Game](https://github.com/wilcoschoneveld/office) - A VR throwing game. ([demo](https://office.wilcoschoneveld.com/))
