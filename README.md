@@ -234,10 +234,9 @@ _Official Babylon.js demos that really showcase what it is capable of._
 
 _Extra demonstrations of Babylon.js_
 
-- [Minority Race](https://www.babylonjs.com/scenes/minority-race/) - A racing game made in 2016 for a film school. ([source](https://github.com/BabylonJS/Website/tree/master/build/Scenes/minority-race))
-- [Robot Presentation](https://www.babylonjs.com/scenes/robot/) - A robot gives a timed presentation, with an interactive slider to control animation status. ([source](https://github.com/BabylonJS/Website/tree/master/build/Scenes/Robot))
-- [Sandbox](https://www.babylonjs.com/scenes/sandbox/) - A sandbox for playing with Babylon files. ([source](https://github.com/BabylonJS/Website/tree/master/build/Scenes/Sandbox))
-- [World Monger](https://www.babylonjs.com/scenes/worldmonger/) - Become a God and shape the world around you. ([source](https://github.com/BabylonJS/Website/tree/master/build/Scenes/WorldMonger))
+- [Minority Race](https://www.babylonjs.com/Scenes/minority-race/) - A racing game made in 2016 for a film school. ([source](https://github.com/BabylonJS/Website/tree/master/build/Scenes/minority-race))
+- [Robot Presentation](https://www.babylonjs.com/Scenes/Robot/) - A robot gives a timed presentation, with an interactive slider to control animation status. ([source](https://github.com/BabylonJS/Website/tree/master/build/Scenes/Robot))
+- [World Monger](https://www.babylonjs.com/Scenes/WorldMonger/) - Become a God and shape the world around you. ([source](https://github.com/BabylonJS/Website/tree/master/build/Scenes/WorldMonger))
 
 ## Games
 
@@ -252,7 +251,7 @@ _Open source games built with Babylon.js_
 - [F18 Fighter Simulation](https://github.com/renjianfeng/F18FlightSimulator-ammojs) - Simulation driving of F18 Fighter. ([demo](https://renjianfeng.github.io/F18FlightSimulator-ammojs/dist/index.html))
 - [Hide and Seek Demo](https://github.com/colyseus/babylonjs-hide-and-seek) - Multiplayer Hide-and-Seek made with BabylonJS and Colyseus. ([demo](https://docs.colyseus.io/colyseus/demo/babylonjs-editor/hide-and-seek/))
 - [Light Speed Ready!](https://github.com/Xanmia/Light-Speed-Ready) - A spaceship game of gathering resources and leveling your ship. ([demo](https://www.kraem.com/Light-Speed-Ready/game.html))
-- [NeoTrap](https://github.com/ionic-proton/NeoTrap) - Music-based game. ([demo](https://omarxo.itch.io/neotrap))
+- [NeoTrap](https://github.com/shanadeshana/NeoTrap) - Music-based game. ([demo](https://omarxo.itch.io/neotrap))
 - [Planet Builder](https://github.com/SvenFrankson/planet-builder-web) - Spherical Voxel Engine demo with a robot hand. ([demo](https://svenfrankson.github.io/PlanetBuilder2022/index.html))
 - [Raucous Running and Rampaging Robot Racer Rally (R6)](https://github.com/hrr8-hermes/hrr8-hermes) - A fast-paced many-explosion robot racer game. ([demo](https://r6redux.herokuapp.com/))
 - [Roll A Ball](https://github.com/impomales/roll-a-ball) - 3D Game to illustrate getting started with the Babylon.js game engine. ([demo](https://roll-a-ball-babylon.herokuapp.com/))
@@ -315,7 +314,7 @@ _Open source projects using Babylon.js_
 - [TanksBattle_WebGL_Using_Babylonjs](https://github.com/khaledose/TanksBattle_WebGL_Using_Babylonjs) - 3D Tanks Battle WebGL game. ([video](https://www.youtube.com/watch?v=HJrAUqTd1oU))
 - [Tomb Raider Nostalgia](https://github.com/Popov72/TRN2) - View levels and play cut scenes for old Tomb Raider games 1/2/3/4. ([demo](https://popov72.github.io/TRN2/))
 - [VR Office Throwing Game](https://github.com/wilcoschoneveld/office) - A VR throwing game. ([demo](https://office.wilcoschoneveld.com/))
-- [Vue-BabylonJS](https://github.com/Beg-in/vue-babylonjs) - A ready-to-go 3D environment for Vue.js using Babylon.js ([demo](https://vue-babylonjs.com/))
+- [Vue-BabylonJS](https://github.com/Beg-in/vue-babylonjs) - A ready-to-go 3D environment for Vue.js using Babylon.js ([demo](https://vuebabylonjs.com/))
 - [webxr-depth-testbed-babylon](https://github.com/drumath2237/webxr-depth-testbed-babylon) - Testbed for WebXR Depth Feature. ([demo](https://drumath2237.github.io/webxr-depth-testbed-babylon/))
 - [WebXR Measuring Tape](https://github.com/Narendra-Kamath/webxr-measuring-tape) - :zap: An Augmented Reality real-world length-measuring web app using the WebXR HitTarget feature. ([demo](https://narendra-kamath.github.io/webxr-measuring-tape/))
 - [yuka-babylonjs-examples](https://github.com/eldinor/yuka-babylonjs-examples) - Examples of using Yuka for Game AI. ([demo](https://yuka.babylonpress.org/))
