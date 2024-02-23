@@ -254,7 +254,6 @@ _Open source games built with Babylon.js_
 - [NeoTrap](https://github.com/shanadeshana/NeoTrap) - Music-based game. ([demo](https://omarxo.itch.io/neotrap))
 - [Planet Builder](https://github.com/SvenFrankson/planet-builder-web) - Spherical Voxel Engine demo with a robot hand. ([demo](https://svenfrankson.github.io/PlanetBuilder2022/index.html))
 - [Raucous Running and Rampaging Robot Racer Rally (R6)](https://github.com/hrr8-hermes/hrr8-hermes) - A fast-paced many-explosion robot racer game. ([demo](https://r6redux.herokuapp.com/))
-- [Roll A Ball](https://github.com/impomales/roll-a-ball) - 3D Game to illustrate getting started with the Babylon.js game engine. ([demo](https://roll-a-ball-babylon.herokuapp.com/))
 - [Simple 3D FPS](https://github.com/TiagoSilvaPereira/simple-3d-fps) - A simple FPS game following Clean Code principles. ([demo](https://simple-3d-fps-game.herokuapp.com/))
 - [Space Invaders](https://github.com/johnpitchers/Space-Invaders) - Space Invaders in your browser with 3D WebGL. ([demo](https://spaceinvaders.viperfish.com.au/))
 - [Space Pirates](https://github.com/BabylonJS/SpacePirates) - Shoot down pirates in space. ([demo](https://spacepirates.babylonjs.com/))
