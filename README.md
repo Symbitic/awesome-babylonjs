@@ -266,13 +266,13 @@ _Open source games built with Babylon.js_
 _Open source projects using Babylon.js_
 
 - [3D Creator](https://github.com/simonguest/3dcreator) - A prototype that shows how students (grades 7-12) can use block-based programming to create immersive 3D scenes. ([demo](https://simonguest.github.io/3dcreator/))
-- [3D Tetris](https://github.com/Symbitic/3DTetrisBabylon) - 3D Tetris using the Babylon.js engine. ([demo](https://symbitic.github.io/3DTetrisBabylon/))
+- [3D Tetris](https://github.com/babylonjs-archive/3d-tetris) - 3D Tetris using the Babylon.js engine. ([demo](https://babylonjs-archive.github.io/3d-tetris/))
 - [BABYDOOM](https://github.com/Arc0re/arc0re.github.io) - Basic DOOM clone. ([demo](https://arc0re.github.io/))
 - [babylon-accessibility-example](https://github.com/Symbitic/babylon-accessibility-example) - Example of how to add accessibility to 3D models. ([demo](https://symbitic.github.io/babylon-accessibility-example/))
 - [babylon-demo](https://github.com/SvenFrankson/babylon-demo) - Babylon.js demo for academic purposes. ([demo](https://svenfrankson.github.io/BabylonDemoWeb/index.html))
 - [BabylonFpsDemo](https://github.com/renjianfeng/BabylonFpsDemo) - A first-person shooter with Babylon.js ([demo](https://renjianfeng.github.io/BabylonFpsDemo/example/index.html))
 - [BabylonJS-CharacterController](https://github.com/ssatguru/BabylonJS-CharacterController) - A CharacterController for Babylon.js ([demo](https://ssatguru.github.io/BabylonJS-CharacterController-Samples/demo/))
-- [BabylonJS-Doom-Clone](https://github.com/Symbitic/BabylonJS-Doom-Clone) - Doom-style game crafted with love using Babylon.js ([demo](https://symbitic.github.io/BabylonJS-Doom-Clone/))
+- [BabylonJS-Doom-Clone](https://github.com/babylonjs-archive/doom-clone) - Doom-style game crafted with love using Babylon.js ([demo](https://babylonjs-archive.github.io/doom-clone/))
 - [BabylonJSFirstSteps](https://github.com/topheman/BabylonJSFirstSteps) - You will find here my first steps on Babylon.js ([demo](http://labs.topheman.com/babylonjs/cone-example.html))
 - [Babylon.js "magic" piano portal](https://github.com/docEdub/babylonjs-ar-piano-portal) - An augmented-reality WebXR animation of Chopin's "Winter Wind" Étude to hang on your wall! Works on flat-screen, too. ([demo](https://demos.babylonjs.com/piano-portal/))
 - [BabylonJS Typescript Logic Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) - A collection of small projects that show possible ways of handling game logic in a Babylon.js game.
