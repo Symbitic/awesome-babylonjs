@@ -246,7 +246,7 @@ _Open source games built with Babylon.js_
 - [Attack of the Killer Bunnies](https://github.com/farmersanonymous/killer-bunnies) - Where bunnies go to die. ([demo](https://ericbroberic.itch.io/attack-of-the-killer-bunnies))
 - [Barkanoid](https://github.com/pigmin/Breakout) - Arkanoid / Breakout clone with cinematic opening. ([demo](https://pigmin.github.io/Breakout/))
 - [Block](https://github.com/Temechon/block) - A block puzzle game. ([demo](http://pixelcodr.com/games/block/game.html))
-- [Cube Endless Runner](https://github.com/TiagoSilvaPereira/endless-runner-3d) - Cube Endless Runner is a 3D game built on top of WebGL and HTML5 technologies. ([demo](https://cube-endless-runner.herokuapp.com/))
+- [Cube Endless Runner](https://github.com/babylonjs-archive/endless-runner-3d) - Cube Endless Runner is a 3D game built on top of WebGL and HTML5 technologies. ([demo](https://babylonjs-archive.github.io/endless-runner-3d/))
 - [Defend](https://github.com/xtreemze/defend) - Procedural Cross-Platform 3D Tower Defense Web Game with Physics and AI and Procedural Sound. ([demo](https://xtreemze.github.io/defend/))
 - [F18 Fighter Simulation](https://github.com/renjianfeng/F18FlightSimulator-ammojs) - Simulation driving of F18 Fighter. ([demo](https://renjianfeng.github.io/F18FlightSimulator-ammojs/dist/index.html))
 - [Hide and Seek Demo](https://github.com/colyseus/babylonjs-hide-and-seek) - Multiplayer Hide-and-Seek made with BabylonJS and Colyseus. ([demo](https://docs.colyseus.io/colyseus/demo/babylonjs-editor/hide-and-seek/))
