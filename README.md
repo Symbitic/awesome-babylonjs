@@ -242,6 +242,7 @@ _Extra demonstrations of Babylon.js_
 
 _Open source games built with Babylon.js_
 
+- [Accessible Breakout](https://github.com/babylonjs-archive/accessiblebreakout) - Breakout game fully accessible for people who are blind or visually impaired. ([demo]())
 - [Alien Cargo](https://github.com/vudugun/AlienCargo) - A WebGL 3D game inspired by the classic puzzle game Sokoban. ([demo](https://vudugun.github.io/AlienCargo/))
 - [Attack of the Killer Bunnies](https://github.com/farmersanonymous/killer-bunnies) - Where bunnies go to die. ([demo](https://ericbroberic.itch.io/attack-of-the-killer-bunnies))
 - [Barkanoid](https://github.com/pigmin/Breakout) - Arkanoid / Breakout clone with cinematic opening. ([demo](https://pigmin.github.io/Breakout/))
@@ -254,7 +255,7 @@ _Open source games built with Babylon.js_
 - [NeoTrap](https://github.com/shanadeshana/NeoTrap) - Music-based game. ([demo](https://omarxo.itch.io/neotrap))
 - [Planet Builder](https://github.com/SvenFrankson/planet-builder-web) - Spherical Voxel Engine demo with a robot hand. ([demo](https://svenfrankson.github.io/PlanetBuilder2022/index.html))
 - [Raucous Running and Rampaging Robot Racer Rally (R6)](https://github.com/hrr8-hermes/hrr8-hermes) - A fast-paced many-explosion robot racer game. ([demo](https://r6redux.herokuapp.com/))
-- [Simple 3D FPS](https://github.com/TiagoSilvaPereira/simple-3d-fps) - A simple FPS game following Clean Code principles. ([demo](https://simple-3d-fps-game.herokuapp.com/))
+- [Simple 3D FPS](https://github.com/babylonjs-archive/simple-3d-fps) - A simple FPS game following Clean Code principles. ([demo](https://babylonjs-archive.github.io/simple-3d-fps/))
 - [Space Invaders](https://github.com/johnpitchers/Space-Invaders) - Space Invaders in your browser with 3D WebGL. ([demo](https://spaceinvaders.viperfish.com.au/))
 - [Space Pirates](https://github.com/BabylonJS/SpacePirates) - Shoot down pirates in space. ([demo](https://spacepirates.babylonjs.com/))
 - [Summer's Festival](https://github.com/BabylonJS/SummerFestival) - Source code for the game tutorial written by capucat. ([demo](https://capucat.github.io/summers-festival/))
@@ -272,7 +273,7 @@ _Open source projects using Babylon.js_
 - [babylon-demo](https://github.com/SvenFrankson/babylon-demo) - Babylon.js demo for academic purposes. ([demo](https://svenfrankson.github.io/BabylonDemoWeb/index.html))
 - [BabylonFpsDemo](https://github.com/renjianfeng/BabylonFpsDemo) - A first-person shooter with Babylon.js ([demo](https://renjianfeng.github.io/BabylonFpsDemo/example/index.html))
 - [BabylonJS-CharacterController](https://github.com/ssatguru/BabylonJS-CharacterController) - A CharacterController for Babylon.js ([demo](https://ssatguru.github.io/BabylonJS-CharacterController-Samples/demo/))
-- [BabylonJS-Doom-Clone](https://github.com/babylonjs-archive/doom-clone) - Doom-style game crafted with love using Babylon.js ([demo](https://babylonjs-archive.github.io/doom-clone/))
+- [BabylonJS-Doom-Clone](https://github.com/babylonjs-archive/doom-clone) - Doom-style game crafted with love. ([demo](https://babylonjs-archive.github.io/doom-clone/))
 - [BabylonJSFirstSteps](https://github.com/topheman/BabylonJSFirstSteps) - You will find here my first steps on Babylon.js ([demo](http://labs.topheman.com/babylonjs/cone-example.html))
 - [Babylon.js "magic" piano portal](https://github.com/docEdub/babylonjs-ar-piano-portal) - An augmented-reality WebXR animation of Chopin's "Winter Wind" Étude to hang on your wall! Works on flat-screen, too. ([demo](https://demos.babylonjs.com/piano-portal/))
 - [BabylonJS Typescript Logic Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) - A collection of small projects that show possible ways of handling game logic in a Babylon.js game.
