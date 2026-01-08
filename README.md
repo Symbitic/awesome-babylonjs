@@ -304,6 +304,7 @@ _Open source projects using Babylon.js_
 - [Pokeball Workshop](https://gitlab.com/side_project/pokeball-workshop) - Interactive models from Game Freak's classic series. ([demo](https://side_project.gitlab.io/pokeball-workshop/))
 - [react-babylonjs](https://github.com/brianzinn/react-babylonjs) - React for Babylon.js ([demo](https://brianzinn.github.io/react-babylonjs/))
 - [react-babylon-spring](https://github.com/hookex/react-babylon-spring) - Build spring-physics based 3D animation with the power of react-babylonjs and react-spring. ([demo](https://hooke.life/react-babylon-spring/))
+- [Reactylon](https://github.com/simonedevit/reactylon) - The React framework for XR. ([demo](https://www.reactylon.com/docs))
 - [Roblox meets film noir](https://github.com/TomWHall/babylon-js-platformer) - A 3D platform game demo using Babylon.js and React. ([demo](https://tomwhall.github.io/babylon-js-platformer/))
 - [Space Jam: A New Legacy BabylonJS Mixed Reality Experience](https://github.com/microsoft/space-jam-a-new-legacy-babylonjs-template) - This repository pairs with the Babylon.js Mixed Reality module that is part of the Microsoft Learn learning path inspired by the _Space Jam: A New Legacy_ film.
 - [Swarm](https://temechon.itch.io/swarm) - A Babylon.js scene made for the screensaver jam. ([demo](https://github.com/Temechon/screensaver))
