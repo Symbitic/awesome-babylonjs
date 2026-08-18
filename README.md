@@ -252,6 +252,7 @@ _Open source games built with Babylon.js_
 - [F18 Fighter Simulation](https://github.com/renjianfeng/F18FlightSimulator-ammojs) - Simulation driving of F18 Fighter. ([demo](https://renjianfeng.github.io/F18FlightSimulator-ammojs/dist/index.html))
 - [Hide and Seek Demo](https://github.com/colyseus/babylonjs-hide-and-seek) - Multiplayer Hide-and-Seek made with BabylonJS and Colyseus. ([demo](https://docs.colyseus.io/colyseus/demo/babylonjs-editor/hide-and-seek/))
 - [Light Speed Ready!](https://github.com/Xanmia/Light-Speed-Ready) - A spaceship game of gathering resources and leveling your ship. ([demo](https://www.kraem.com/Light-Speed-Ready/game.html))
+- [Magic AR Basketball](https://github.com/alemart/encantar-js/tree/master/demos/basketball) - Augmented Reality game featuring Image Tracking and Physics. ([demo](https://alemart.github.io/encantar-js/demos/hello-babylon/poster.html))
 - [NeoTrap](https://github.com/shanadeshana/NeoTrap) - Music-based game. ([demo](https://omarxo.itch.io/neotrap))
 - [Planet Builder](https://github.com/SvenFrankson/planet-builder-web) - Spherical Voxel Engine demo with a robot hand. ([demo](https://svenfrankson.github.io/PlanetBuilder2022/index.html))
 - [Raucous Running and Rampaging Robot Racer Rally (R6)](https://github.com/hrr8-hermes/hrr8-hermes) - A fast-paced many-explosion robot racer game. ([demo](https://r6redux.herokuapp.com/))
@@ -291,6 +292,7 @@ _Open source projects using Babylon.js_
 - [Christmas runner](https://github.com/Temechon/Christmas-runner) - A Babylon.js game made for Christmas. ([demo](http://pixelcodr.com/games/christmasRunner/))
 - [Divine Voxel Engine](https://github.com/Divine-Star-Software/DivineVoxelEngine) - A truly multi-threaded JavaScript voxel game engine written in TypeScript.
 - [ecsy-babylon](https://github.com/kaliber5/ecsy-babylon) - Experimental Babylon.js implementation of ECSY.
+- [encantar.js](https://github.com/alemart/encantar-js) - GPU-accelerated Augmented Reality library that works on any device (iOS, Android, desktops). Easy to use and requires no WebXR support.
 - [Epic Guide](https://github.com/Temechon/Babylon.js-FPS) - A FPS game about going for a walk. ([demo](http://pixelcodr.com/games/babylonjs-fps/))
 - [ergoudan](https://github.com/armomu/ergoudan) - Havok physics character controller demo. ([demo](https://armomu.github.io/ergoudan/#/))
 - [facecap](https://github.com/imerso/facecap) - Mediapipe face capture. ([demo](https://imerso.github.io/babylon.js/facecap/))
@@ -328,6 +330,7 @@ _Open source projects using Babylon.js_
 
 _Demos of Babylon.js on the web._
 
+- [AR Image Tracking](https://encantar.dev/demos/hello-babylon/poster.html) - [source](https://github.com/alemart/encantar-js/tree/master/demos/hello-babylon)
 - [Roller coaster](https://jerome.bousquie.fr/BJS/demos/rollercoaster.html) - [JS](https://jerome.bousquie.fr/BJS/demos/rollercoaster.js)
 - [Star Fighter](http://jerome.bousquie.fr/BJS/OfficeGames/StarFighter/StarFighter.html) - [JS](https://github.com/jbousquie/OfficeGames/blob/master/StarFighter/StarFighter.js)
 - [Blowing Wall](https://jerome.bousquie.fr/BJS/demos/blow.html) - [JS](https://jerome.bousquie.fr/BJS/demos/blow.js)
