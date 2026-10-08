@@ -291,6 +291,7 @@ _Open source projects using Babylon.js_
 - [Christmas runner](https://github.com/Temechon/Christmas-runner) - A Babylon.js game made for Christmas. ([demo](http://pixelcodr.com/games/christmasRunner/))
 - [Divine Voxel Engine](https://github.com/Divine-Star-Software/DivineVoxelEngine) - A truly multi-threaded JavaScript voxel game engine written in TypeScript.
 - [ecsy-babylon](https://github.com/kaliber5/ecsy-babylon) - Experimental Babylon.js implementation of ECSY.
+- [encantar.js](https://github.com/alemart/encantar-js) - GPU-accelerated Augmented Reality library that works on any device (iOS, Android, desktops). Easy to use and requires no WebXR support.
 - [Epic Guide](https://github.com/Temechon/Babylon.js-FPS) - A FPS game about going for a walk. ([demo](http://pixelcodr.com/games/babylonjs-fps/))
 - [ergoudan](https://github.com/armomu/ergoudan) - Havok physics character controller demo. ([demo](https://armomu.github.io/ergoudan/#/))
 - [facecap](https://github.com/imerso/facecap) - Mediapipe face capture. ([demo](https://imerso.github.io/babylon.js/facecap/))
